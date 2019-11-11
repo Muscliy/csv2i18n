@@ -1,0 +1,320 @@
+Key,English,Chinese
+common_collocation,Collocation,托管
+common_Deposit,Deposit,存款
+common_Loan,Loan,借贷
+common_exchange,Exchange,兑换
+common_enterprise,Enterprise Edition,企业版
+product_intr,Product introduction,产品介绍
+org_governace,DAO,组织自治
+homepage_headline,Secure one-stop digital asset financial service platform,安全一站式数字资产金融服务平台
+asset_manage,Assets managed,资产托管
+mortgage loan,Mortgage loan,抵押借贷
+deposit_interest,Deposit interest,存币生息
+personal_login,Personal Login,个人版登陆
+enterprise_login,Enterprise Login,企业版登陆
+homepage_wallet_intr,"Digital assets, mastered at one hand; multi-currency cross-chain, one-stop management",数字资产，一手掌握；多币种跨链，一站式管理
+homepage_download_intr,Scan code download to open a new financial journey,扫码下载，开启全新的金融之旅
+homepage_title_pi,Interest-increasing stable currency PI,增息型稳定币PI
+homepage_intr_pi,"PI redefines the concept of stable currency, which is a stable currency with asset mortgage protection, decentralization, anti-fluctuation, and interest rate increase. Any user with PI can exercise the same monetary rights in the digital financial world as in traditional economic society.",PI 对稳定币概念进行重新定义，是一种具有资产抵押保障、去中心、抗波动、可增息的稳定币。任何持有PI的用户皆可在数字金融世界行使与传统经济社会中一样的货币权利
+see_more,See More,查看更多
+homepage_title_crosschain,Cross-chain reserve system,跨链储备系统
+homepage_intr_crosschain,"Multi-currency cross-chain transfer, multi-purpose use of chain assets",多币种跨链转入，链资产多元用途
+common_community,Community,社区
+contact_us,Contact Us,联系我们
+development_document,Development Document,开发文档
+dl_chrome_intr,You can only get PI related services on the Chrome desktop browser,您只能在Chrome桌面浏览器上获取PI相关服务
+dl_chrome_link,Download Chrome Browser,下载chrome浏览器
+dl_wallet_intr,"You have not installed PI officially specified browser wallet Asilink, please download and install and log in and try again",您暂未安装PI官方指定浏览器钱包Asilink，请下载安装并登陆后再次尝试
+dl_in_google,Go to the Google Store to download,到谷歌商店下载
+dl_package_link,Can't open Google Store? Click to download the installation package directly,打不开谷歌商店? 点击直接下载安装包
+view_tutorial,View the installation tutorial,查看安装教程
+wallet_authorized,Wallet authorized login,钱包授权登陆
+common_overview,Overview,总览
+deposit_pi,Deposit PI,存 PI
+loan_pi,Loan PI,借 PI
+common_asset,Assets,资产
+account_set,Account settings,账户设置
+total_pi,Total PI,PI 资产总值
+my_deposit,My Deposits,我的存款
+common_help,Help,帮助
+common_language,Language,语言
+realtime_storage,Real-time Storage {{value}},实时储备  {{value}}
+pi_asset_intr,PI asset total value equals PI wallet balance plus deposit balance,PI资产总值等于PI钱包余额加上存款余额
+my_deposit_pi,My Deposits（PI）,我的存款（PI）
+my_loan_pi,My Loans（）,我的借款（PI）
+expected_return,Expected return,预计收益
+debit_interest,Debit interest,欠息
+common_receive,Receive,收款
+common_transfer,Transfer,转账
+pi_iusse_info,PI issuance infomation,PI 发行信息
+view_detail,Details,查看详情
+total_issue,Total Issued Amount,总发行量
+current_price,Current price,当前价格
+pledge_rate,Pledge rate,质押率
+pledge_asset,Pledged assets,质押资产
+golboal_asset_disclosure,Globally managed asset disclosure,全局托管资产公示
+common_reserve,Reserve,储备
+common_iusse,Issued,发行
+golboal_reserve_rate,Global reserve ratio,全局储备率
+notification_center,Notification Center,通知中心
+no_content,No content,暂无内容
+what_is_pi,Stable currency based on asset pledge,基于资产质押发行的稳定币
+total_circulation,Total circulation,总发行量
+current_price,Current price,当前价格
+pledged_asset,Pledged assets,质押资产
+common_date,Date,日期
+common_price,Price,价格
+common_january,January,一月
+common_february,February,二月
+common_march,March,三月
+common_april,April,四月
+common_may,May,五月
+common_june,June,六月
+common_jujy,July,七月
+common_august,August,八月
+common_spetember,September,九月
+common_october,October,十月
+common_november,November,十一月
+common_december,December,十二月
+data_overview,Data overview,数据概览
+loan_pi_order,Total PI Loan Orders,借PI订单总数
+current_loan_price,Current Annual Rate,当前借款费率
+issuance_info,Issuance Info,发行信息
+officaial_websit,Official website,官网网站
+common_check,Check,查看
+common_visit,Visit,访问
+loan_many_rate_choose,"Depending on the currency characteristics, market conditions, and the term of the loan, Pipay will have multiple different borrowing ",根据币种特性，行情，以及借款期限，Pipay借PI会有多个不同的借款利率，您可按需选择
+due_on_demand,Due on demand,随借随还
+much_days,{{value}}day（s）,{{value}}天
+common_return,Return,返回
+snapshot_time,Snapshot time: {{value}},快照时间：{{value}}
+platform_Reserve_asset,Platform Reserve Assets,平台储备金
+platform_user_funds,Platform users hold funds,平台用户资金总额
+common_reserve_rate,{{value}} Reserve Rate,{{value}} 储备金率
+common_account,Account,账户
+common_address,Address,地址
+common_balance,Balance {{value}},余额{{value}}
+common_project,Project,项目
+common_time,Time,时间
+common_content,Content,内容
+all_read,All Read,全部已读
+common_operate,Operate,操作
+common_all,All,全部
+common_loan,Loan,借款
+common_receive,Receive,转入
+common_transfer,Transfer,转出
+want_deposit,I want to deposit,我要存
+deposit_amount_hint1,Please enter a amount of no less than{{value}}{{value}}.,请输入不小于{{value}}{{value}}的数量
+deposit_amount_hint2,The number of inputs is greater than the available balance,输入数量大于可用余额
+available_balance,Available balance: {{value}},可用余额：{{value}}
+save_all,Save all,全部存入
+pi_hold_gain,PI Holding Gains,持PI获息
+expected_annual_rate,Expected annual rate,预计年化收益
+read_more,Read more,了解一下
+fixed_day,{{value}} days fixed,定期 {{value}}天
+deposit_pi_button,Deposit PI,马上存
+total_deposit,Total deposit (PI),总存款（PI）
+cumulative_earning,Cumulative earning (PI),累计收益（PI）
+deposit_record,Deposit record,存款记录
+earning_detail,Earning details,收益详情
+deposit_information,Deposit information,存款信息
+deposit_amount,Deposit amount,存款金额
+deposit_Period,Deposit Period,存款期限
+transction_confirm_calculate,Start calculation after confirmation of the transaction,于交易确认后开始计算
+current_annual_rate,Current annualized interest rate,当前年化利率
+expected_total_interest,Expected total interest,预计总利息
+read_agree_deposit_tip,I have read and agree to Pipay to deposit PI income rules and risk tips.,我已阅读并同意Pipay存PI收息规则及风险提示
+confirm_deposit_button,Confirm Deposit,确定存款
+not_leave_page,Do not leave the current page,请勿离开当前页面
+wait_package_transction,Waiting for the validator to package the transaction into blocks,等待验证者把交易打包入块
+expect_wait,Expect to wait {{value}},预计等待 {{value}}
+transaction_failed,Transaction Failed,交易失败
+tx_not_receive_bychain,"Sorry, the transaction was not received by the blockchain. Please check the transaction format and re-initiate the transaction.",对不起，交易没有被区块链接收，请仔细检查交易格式并重新发起交易
+waiting_tx_confirmation,Waiting for transaction confirmation,等待交易确认
+tx_not_package_tip,"The transaction has not yet been packaged, you can check the status of the transaction in the ""Deposit History"" and the transaction may be successful at any time.",交易尚未被打包，您可以在“存款记录”中查看交易状态，交易可能随时成功。
+tx_succeess_tip,"Once the transaction is successful, we will update your trading results immediately.",交易成功后，我们会立即更新您的交易结果。
+check_order,Check Order,查看订单
+deposit_success,Successful Deposit,存款成功
+deposit_success_intr,Your {{value}}day time deposit {{value}} has been successfully saved,您的{{value}}天定期存款{{value}}已成功存入
+view_deposit_history,View deposit history,查看存款记录
+common_depositing,Depositing,存款中
+common_finished,Finished,已结束
+creation_time,Creation time,创建时间
+common_type,Types,类型
+deposit_amount,Deposit Amount (PI),存款金额（PI）
+annual_return_rate,Annualized rate of return,年化收益率
+common_earning_pi,Earnings (PI),收益（PI）
+remaining_days,Remaining Days,剩余天数
+order_number,Order number {{value}},订单编号{{value}}
+fixed_deposit_remain_day,"{{value}} days of time deposit, {{value}} days remaining",{{value}}天定期存款中，还剩{{value}}天到期
+deposit_remain_day,{{value}} day（s） left,还剩{{value}}天
+common_peries_time,{{value}} Expires,{{value}}到期
+operation_record,Operation record,操作记录
+advance_withdraw,Withdrawal in advance,提前取款
+withdraw_pi,Withdraw PI,取出PI
+enter_withdraw_pi_amount,Please enter the number of PI you want to remove,请输入您想要取出的PI的数量
+input_amount,Input Amount,输入数量
+available_withdraw,Available for withdraw: {{value}},可取出金额：{{value}}
+withdraw_all,Withdraw All,全部取出
+confirm_withdraw,Confirm Withdrawal,确定取款
+transaction_detail,Transaction Details,交易详情
+receive_address,Receive address,收款地址
+payment_address,Payment address,付款地址
+validator_fee,Validator fee,验证者费用
+confirm_bloc,Confirm blocks,确认块数
+transaction_statu,Transaction Status,交易状态
+transaction_date,Transaction Date,交易时间
+deposit_expried_change_demand,The deposit has expired and has been automatically converted to demand deposit,存款已到期，已自动转为活期存款
+withdraw_tx_confirm,Withdrawal transaction confirming...,取款交易确认中…
+generate_interest,Interest generated,已产生利息
+earning_type,Earning types,收益类型
+earning_mount,Earning mount (PI),收益金额（PI）
+common_today_earning,Today{{value}},今日{{value}}
+common_yesterday_earning,Yesterday{{value}},昨日{{value}}
+balance_earning,Balance Earnings,余额收益
+want_loan,I want to loan,我要借
+loan_amount,Loan amount,借款金额
+loan_amount_hint,*The number of inputs is greater than the available balance,*输入数量大于可用余额
+choose_pledge,Choose pledge,选择质押物
+common_recharge,Recharge,充值
+common_pledge_rate,Pledge rate {{value}},质押率{{value}}
+due_on_demand,Due on demand,随借随还
+loan_pi_button,Loan PI,马上借
+deposit_amount,Deposit Amount,质押金额
+period_repayment,Repayment amount due,到期应还
+total_loan,Total Loan,总借款
+debit_interest,Debit interest,已欠息
+loan_record,Loan record,借款记录
+loan_period,Loan period,借款期限
+pledge_information,Pledge information,质押信息
+pledged_asset_amount,Pledged Asset and amount,质押币种与金额
+loan_pledge_rate,Loan pledge rate,借款质押率
+pledge_current_price,{{value}} current price,质押资产当前价格
+pledge_liquidation_price,{{value}} liquidation price,质押资产清算价格
+liquidation_penalty_ratio,Liquidation penalty ratio,质押清算罚金比例
+pledge_intr,The currency you choose to pledge your loan and the amount you need to pledge,您选择的用于质押借款的币种和需要质押的金额
+pledge_rate_intr,"The pledge rate is the ratio of the value of the pledged assets to the value of the borrowed assets. The higher the pledge rate, the more reliable the loan order. Since each of Pipay's borrowings is based on a single currency, each currency has its own global value. ",质押率是指质押资产与借出资产的价值之比，质押率越高，借贷订单越可靠，由于Pipay的每次借款都是基于单个币种借出，因此每个币种会有自己的全局质押率
+pledge_realtime_price_intr,"The real-time market price of the asset used for pledge, used to calculate the pledge rate",用于质押的资产的实时市场价格，会用于计算质押率
+pledge_liquidate_intr,"When the pledged assets fall to the liquidation price, in order to avoid risks, the system will automatically liquidate the borrowings for settlement of loans and fines.",当质押资产跌至清算价格时，为避免风险，系统将自动清算本借款单，用于结算借款和罚金
+liquidation_penalty_ratio_intr,"When the liquidation occurs, the proportion of funds used to compensate the system is deducted from the pledged assets.",在清算发生时，从质押资产中扣除用于补偿系统的资金比例
+pledge_balance_insufficient_intr,"Your {{value}} asset balance is not sufficient to pledge,still need {{value}}",您的{{value}}资产余额不满足所需数量，还差{{value}}
+common_topup,Top up {{value}},充值{{value}}
+pledge_insufficient_tip,At least the pledge is insufficient to recharge,质押物不足至少还需充值
+Scan_qr_recharge,Scan QR code to recharge,扫描二维码充值
+"recharged,_check_progress","Recharged, check the progress",已充值，查看进度
+daily_interest,Daily interest ≈{{value}},每日利息≈{{value}}
+repayment_date,Repayment date {{value}},还款日{{value}}
+successful_loan,Successful loan,借款成功
+loan_success_tip,"Your {{value}} loan {{value}} has been successfully paid, please check it in time",您的{{value}}借款{{value}}已出款成功，请及时查看
+view_loan_record,View loan records,查看借款记录
+common_loaning,Loaning,借款中
+loan_type,Type of loan,借款类型
+deposit_type,Type of deposit,存款类型
+loan_amount_pi,Loan amount (PI),借款金额（PI）
+common_statu,Status,状态
+pending_pledge,Pending pledge,待支付质押
+expires_in_days,{{value}} expires in days,{{value}}天后到期
+over_due_day,Overdue {{value}} days,已逾期{{value}}天
+Pledge_rate_low,Pledge rate is too low,质押率过低
+common_repaid,Repaid,已还款
+common_liquidated,liquidated,已清算
+overdue_liquidated,Overdue liquidated,逾期平仓
+pledge_low_liquidation,Pledge too low liquidation,质押过低平仓
+order_timeout_closed,Order timeout closed,订单超时关闭
+cancel_order,Cancel order,取消订单
+common_pay,Pay,支付
+loan_details,Loan details,借款详情
+repayment_amount,Repayment Amount,还款金额
+due_demand_order,With {{value}} days loaned with the due on demand order,随借随还订单，已借{{value}}天
+ owed_interest,Interest owed,已欠利息
+interest_rate,interest rate,利率
+common_pledge,Pledge,质押物
+liquidation_line,liquidation line {{value}},平仓线 {{value}}
+add_pledge,Add pledge,追加质押
+go_to_repay,Repay,去还款
+increasing_pledge_intr,Increasing the pledge assets can increase the pledge rate and ensure the stability of the order. Please enter the amount of the pledged assets you want to deposit.,增加质押资产能提高质押率，保证订单的稳定，请输入您要存入的质押资产数额
+currently_pledge,Currently pledged,当前已质押
+current_pledge_rate,Current pledge rate,当前质押率
+expected_pledge_rate,Expected pledge rate after deposit,预计存入后质押率
+confirm_add_pledge,Confirm add,确定加仓
+common_repayment,Repayment,还款
+repayment_available_balance ,Repayment balance available: {{value}},还款可用余额： {{value}}
+repayment_all,Repayment All,全部还款
+total_loan,Total Loans,总借款
+total_interest,Total interest,总产生利息
+this_time_repayment,This time repayment,本次还款
+pay_interest,Pay interest,付息
+return_principal,Return principal,还本金
+repay_loan_balance,Balance of arrears after repayment,还款后欠款余额
+confirm_repay,Confirm repayment,确定还款
+whether_cancel_loan_order,Whether to cancel this loan order,是否取消本次借款订单
+common_yes,Yes,是
+common_no,No,否
+expire_remain_day,{{value}} days remaining until the expiration,距离到期还剩{{value}}天
+much_fixed_day,"{{value}} fixed days, to {{value}}",{{value}}天定期，至{{value}}
+loan_tx_confirm,Loan {{value}} in the transaction confirmation,借出{{value}}交易确认中
+overdue_day,Overdue {{value}} days,逾期{{value}}天
+approach_liquidation_status,"The price of the pledge {{value}} is approaching the liquidation price, please add the {{value}} pledge in time, or repay the loan in advance.",质押的{{value}}价格下跌逼近清算价格，请及时追加{{value}}质押，或提前还款
+pledge_falling_status,"Due to the falling price of the pledge, this order has been cleared for liquidation",由于质押物价格下跌，本订单已进行爆仓清算
+liquidation_intr,"The liquidation of the pledge assets is used to repay the debts and pay the fines. If there is any remaining pledge, the original will be returned.",清算会拍卖质押资产用于偿还债务和付罚金，清算完成若有剩余质押物，会原路退回
+liquidation_pledge_asset,Liquidation of pledge assets,清算质押财产
+repay_loan,Loan amount,偿还借款
+pay_interest2,Interest,支付利息
+pay_fine,Fine,支付罚金
+liquidation_refund,Refund after liquidation,清算退款
+punishment_liquidation_price,Punishment liquidation price,处罚清算价格
+liquidation_time,Liquidation time,清算时间
+total_interest2,Total interest,总利息
+loan_paidoff_status,"The loan has been paid off, the pledged assets have been returned, and the order has been closed.",借款已还清，质押资产已退回，订单已关闭
+function_development,"Function development, coming soon!",功能开发中，马上就来！
+wallet_balance,Wallet balance,钱包余额
+transaction_detail2,Transaction Record,交易记录
+common_currency,Currency,币种
+total_sum,Total sum,总额
+common_valuation,Valuation,估值
+available_and_frozen,Available/frozen,可用/冻结
+asset_flows,Asset flows,资金流向
+receiver_and_payer,Receiver/Payer,收款/付款方
+common_receive_amount,Receive {{value}},接收{{value}}
+specify_receipt_amount,Specify the number of receipts,指定收款数量
+common_crosschain_receive_address,{{value}} cross-chain payment address,{{value}}跨链收款地址
+crosschain_receive_address_intr,Regular {{value}} address can receive {{value}} transfers from non-Asimov chains,常规{{value}}地址可以接收来自非Asimov链的{{value}}转账
+common_copy,copy,复制
+common_precaution,Precautions,注意事项
+crosschain_precautions1,1. The {{value}} cross-chain receive address will be updated from time to time. Please do not save the address or QR code in other places.,1. {{value}}跨链收款地址会不定时更新，请不要在其它地方保存地址或二维码图片重复使用
+crosschain_precautions2,"2. Before each payment, please go to this interface to get the latest payment address.",2. 每次收款之前，请到本界面获取最新的收款地址
+crosschain_precautions3,3. Cross-chain receive requires a longer waiting time than a normal transaction. You can follow the transaction progress in the transaction details interface.,3. 跨链收款需要相对普通交易较长的等待时间，您可在交易详情界面关注交易进度
+crosschain_precautions4,"4. If you accidentally put {{value}} into the old address, please contact customer service in time.",4. 如果不小心将{{value}}打入到旧地址，请及时联系客服处理
+common_transfer_amount,Transfer {{value}},转账{{value}}
+enter_address,Enter the address,输入对方地址
+enter_address_recent_payee,Enter address or select recent payee,输入地址或选择最近收款人
+enter_transfer_amount,Enter the number of {{value}} you want to transfer,输入您想转出的{{value}}数量
+confirm_transfer,Confirm Transfer,确定转账
+enter_address2,Enter Address,输入地址
+safety_exit,Safety exit,安全退出
+last_login_time,Last login time: {{value}},最后登录时间：{{value}}
+login_history,Login history,登录历史
+login_device,Login device,登录设备
+ip_address,IP address,IP 地址
+common_location,Location,地点
+hold_pi_earning,Holding PI earnings,持PI收益
+expected_daily_interest,Expected daily interest,预计每日利息
+deposit_withdraw_advance_status,The deposit has been withdrawn in advance and the order is closed,存款已提前取出，订单结束
+holding_pi,Holding PI,持有PI
+automatically_enjoy_benefit,You can automatically enjoy the benefits,即可自动享有收益
+Cumulative_issue,Cumulative has been issued,累计已发放
+current_return_rate,Current rate of return,当前收益率
+holdpi_return_intr,"As long as there is a PI in your wallet balance, you can get the earning every day, issue it regularly, and automatically arrive at the account.",只要您的钱包余额里面有PI，就可以每天获得收益，定时发放，自动到账
+your_current_balance,Your current balance,您当前的余额
+expected_daily_earnings,Expected daily earnings,预计每日可得收益
+scan_code_yourself,Scan code to transfer PI to yourself,扫码转PI给自己
+common_problem,Common Problems,常见问题
+holdpi_question1,Q. How much does it need to be deposited to earn interest?,Q. 需要存入多少才能获得利息？
+holdpi_answer1,"A. According to the current price of PI, the current interest rate of the system, your wallet balance needs to have at least 100 PI to get interest.",A. 根据PI当前的价格已经系统当前的利率，您的钱包余额需要有至少100 PI 才能获得利息
+holdpi_question2,Q. How do I get interest?,Q. 怎么拿到利息呢？
+holdpi_answer2,"A. The system will automatically calculate the interest you can get based on your real-time balance, and automatically transfer the interest to your wallet balance.",A. 系统会根据您的实时余额，自动计算您可获得的利息，自动将利息定时转入您的钱包余额
+holdpi_question3,Q. What if I don't have a PI? / Where can I get more PI?,Q. 没有PI怎么办？/哪里可以获得更多PI？
+holdpi_answer3,"A. PI is a stable currency. All PIs are issued through pledge lending. You can lend a certain PI by pledge, or you can go to the trading market to buy PI.",A. PI是一种稳定币，所有PI的发行都是通过质押借贷产生，您可以通过质押借出一定的PI，也可以去交易市场购买PI
+common_receive2,receive,流入
+common_transfer2,transfer,支出
+common_amount,amount,金额

@@ -1,0 +1,809 @@
+Key,English,Chinese
+start_new_wallet,Create Wallet,创建钱包
+start_import_wallet,Import Wallet,导入钱包
+start_new_backup,Start Backup,开始备份
+start_new_backup_skip,Backup Later,以后再备份
+start_new_backup_wallet,Backup Wallet,备份钱包
+backup_wallet_prenotice,"To restore your wallet in any cases, please back the mnemonic words for this wallet",为了方便你以后恢复此钱包，请备份你的钱包助记词
+backup_wallet_introduce,"Mnemonic words are random words of 12 or 24 bits, you can restore your wallet with these words at any time",钱包助记词为12/24位随机单词，使用此助记词，可随时获取你的钱包信息
+backup_wallet_notice_title,Notice,注意
+backup_wallet_notic_desc1,1. Make sure no one can see your mnemonic words,1. 确保身边没有人会看到你的助记词
+backup_wallet_notic_desc2,"2. Do not screenshot, other apps are able to read your mnemonic words from screenshots",2. 不要截图记录助记词，其它应用能够从截图上读取到你的助记词
+backup_wallet_suggest,3. Write these words down on paper and keep it safe,3. 建议将助记词抄写在纸上，并妥善保管
+backup_wallet_gotit,"OK, Got it!",好的，我知道了
+backup_wallet_men,Write down the following words in order,请有序记录以下助记词
+mnemonic_number,Number of Mnemonic Words,助记词数量
+mnemonic_advance,Advanced Options,高级选项
+common_wrote,I've Written Down,我已经记下
+mnemonic_passphrase,Add a password to protect the mnemonic words(Optional),添加助记词密码保护助记词(可选)
+mnemonic_passphrase_tips,"If you lost the password, you will not be able to restore your wallet with mnemonic words only, your funds are irrecoverable.",助记词密码如果丢失，仅助记词将无法恢复钱包，资金将无法找回，请妥善保管
+common_input_ps,Enter Password,输入密码
+common_confirm_ps,Repeat Password,确认密码
+toast_ps_not_match,The passwords does not match!,两次密码不一致！
+mnemonic_confirm,Confirm Mnemonic Words,确认助记词
+mnemonic_confirm_desc,Enter your the mnemonic words by the right order,请按记录的顺序输入助记词
+common_confirm,Confirm,确认
+toast_incorrect_mnemonic,"Incorrect Mnemonic Words, please try again",助记词错误，请重新输入
+mnemonic_remove_title,Remove Mnemonic Words,移除助记词
+mnemonic_remove_desc,"Confirmed, do you want to remove your mnemonic words from the app?",确认完成，是否将助记词从应用中移除？
+common_cancel,Cancel,取消
+common_delete,Delete,删除
+common_first_wallet,My First Wallet,我的第一个钱包
+tab_wallet,Wallet,钱包
+tab_trends,Ticker,行情
+tab_me,Me,我的
+more_add_wallet,Add Wallet,添加钱包
+wallet_add_coin,Add Coins,添加币种
+common_back,Back,返回
+coin_send,Send,发送
+coin_receive,Receive,收款
+coin_received,Received,收入
+coin_sent,Sent,支出
+coin_send_confirming,Confirming,确认中
+coin_transactions,Transactions,交易记录
+coin_none_balance,No balance available,无余额可用
+coin_send_failed,Transaction Failed,交易失败
+wallet_scan_qrcode,Scan QR Code,扫描二维码
+coin_insufficient_balance,Insufficient Balance,余额不足
+coin_send_title,Send {{value}},发送{{value}}
+coin_receive_address,Receive Address,收款地址
+coin_send_address_hint,Enter address or contact name,输入地址或联系人
+common_contacts,Contacts,联系人
+contacts_show_all,Show All,展开所有
+coin_transfer_other_wallet,Send to My Wallet,转到自己钱包
+common_address,Address,地址
+common_name,Name,名称
+error_1202,Invalid Address,地址不合法
+common_amount,Amount,金额
+coin_send_fee,Miner Fee,矿工费用
+fee_level_common,Common,常规
+fee_desc,{{value}}  of the sending amount,约为发送金额的{{value}}
+common_pay_now,Pay Now,立即支付
+send_add_memo,Add memo,添加备注
+fee_level_urgent,Urgent,紧急
+fee_level_desc,Fee Options,费用选项
+send_average_confirm_timw,Average Confirm Time,平均确认时间
+common_hours,{{value}} hour,{{value}}小时
+common_minutes,{{value}} minutes,{{value}}分钟
+fee_level_prioritized,Prioritized,优先
+fee_level_current,Current Fee,当前政策费率
+fee_policy_title,{{value}}  Miner Fee Policy,{{value}} 矿工费用政策
+fee_level_economy,Economy,经济
+fee_level_supereco,Super Economy,超级经济
+fee_custom,Customize,自定义
+fee_low_notice,"This fee is too low, might take long to confirm",费用过低，确认会非常慢
+fee_high_notice,The fee should be below {{value}},费用不得高于{{value}}
+send_pay_confirm_title,Enter Transaction Password,请输入交易密码
+send_pay_confirm_button,Confirm Payment,确认支付
+toast_incorrect_password,Incorrect Password,密码错误
+toast_try_again_in,Try again in {{value}}  minutes,{{value}} 分钟后再试
+receive_current_address,Current Address,当前地址
+receive_address_copied,Address Copied to Clipboard,地址已复制
+transaction_detail,Transaction Detail,交易详情
+transaction_detail_pay_address,Payment Address,付款地址
+transaction_detail_fee,Transaction Miner Fee,交易矿工费
+transaction_detail_confirmations,Confirmed Blocks,确认块数
+transaction_detail_timestamp,Transaction Time,交易时间
+transaction_detail_memo,Memo,备注
+transaction_detail_view_more,View More,查看更多
+me_manage_wallets,Manage Wallets,管理钱包
+me_push,Push Notifications,推送通知
+me_currency,Currency,计价货币
+me_language,Language,语言
+me_lock_app,Lock App,锁定应用
+me_about,About,关于
+me_share,Share,分享
+me_wallet_name,Wallet Name,钱包名
+me_wallet_password,Set Transaction Password,设置交易密码
+me_wallet_delete,Delete Wallet,删除钱包
+me_wallet_name_desc,Modify the wallet name to distinguis different wallets,修改钱包名称，便于区分不同钱包
+common_sace,Save,保存
+me_wallet_password_desc,After adding the password you will be required to enter it to view important information and perform transactions.,添加密码后，在查看助记词等重要信息及转账时将需要此密码确认
+me_wallet_password_change,Change Transaction Password,修改交易密码
+me_wallet_password_old,Old Password,旧密码
+me_wallet_password_new,New Password,新密码
+me_wallet_password_confirm,Confrim New Password,确认新密码
+me_incorrect_old_pw,Incorrect old password!,旧密码错误！
+me_wallet_delete_title,Warning,警告
+me_wallet_delete_desc1,This operation can not be undone,此操作无法撤销
+me_wallet_delete_desc2,"Before you delete the wallet, make sure you have backed up the mnemonic words, otherwise you will lost your funds",删除之前，请确认你已经备份了钱包助记词，否则钱包内的资金可能永远丢失
+me_wallet_delete_popup_desc,Are you sure you want to delete this wallet?,确认要删除这个钱包吗？
+common_confirm_pw,Confirm your transaction password to proceed,确认密码后继续
+contacts_view,View Contact,查看联系人
+contact_delete,Delete Contact,删除联系人
+me_about_help,Help,帮助
+me_about_feedback,Feedback,意见反馈
+me_about_faq,FAQ,常见问题
+me_about_policy,Privacy Policy,隐私政策
+me_about_terms,Terms of Service,服务条款
+me_about_version,Version,版本
+me_about_feedback_tips,Write down your valuable feeback,请写下您的宝贵建议
+feedback_mailtitle,User Feedback,用户反馈
+me_currency_desc,"Please select currencies for quick switch at Wallet, 5 at most",请勾选在首页可快捷切换的货币，最多可选择5种
+me_lock_app_desc,"Add a lock app password, launch the app requires password confirmation, therefore other people will not be able to see your funds freely",添加锁定应用密码后，启动应用需要解锁，其他人将无法随意查看到你的资产
+me_lock_app_no,Do not Lock,不锁定
+me_lock_app_pin,Use PIN,数字密码
+me_lock_app_fingerprint,Use Fingure Print,指纹锁定
+me_lock_app_pin_desc,Set Lock App Password,设置锁定应用密码
+common_pin_unlock_desc,Enter password to unlock,输入密码解锁
+home_back_up_tips,Backup Undone,未备份
+tips_transaction_pw_set,"To protect your funds, please set a transaction password",为保证您的资金安全，请设置交易密码
+eth_send_confirm_gas,Gas,Gas
+eth_send_confirm_gasprice,Gas Price,Gas Price
+eth_send_confirm_data,Hexadecimal Data,十六进制数据
+common_loading,Loading,加载中…
+common_sending,Sending,发送中…
+hint_enter_address,Enter Address,输入地址
+hint_enter_name,Enter Name,输入名称
+hint_enter_amount,Enter Amount,输入数额
+hint_enter_rate,Enter Rate,输入费率
+hint_enter_password,Enter Password,输入密码
+hint_enter_old_password,Enter Old Password,输入旧密码
+hint_enter_new_password,Enter New Password,输入新密码
+hint_repeat_new_password,Repeat New Password,重复新密码
+wallet_token_add_new,Add your first Coin,添加你的虚拟币
+wallet_empty_tips_title,Create Your Wallet,创建你的钱包
+wallet_empty_create_button,Create Wallet,创建钱包
+wallet_empty_tips,"You have no wallet yet, create a wallet to manage your tokens",还没有钱包，立即创建钱包管理你的虚拟币
+send_request_fp,Requesting fingerprint…,请求指纹…
+password_limit,Password should be 8 characters or more,密码至少需要8位字符
+memonic_confirmed_toast,Mnemonic words confirmed,助记词确认成功
+error_network,"Network error, check your network and try again",网络错误，请检查网络后重试
+backup_extra_password,"If you add a password, you will need to use both the mnemonic words and password to restore your wallet",添加密码后，恢复钱包时，必须同时使用助记词和助记词密码
+start_agree_terms,"By using Fingo, you agree to our {{value}}",使用Fingo即表示你同意我们的{{value}}
+import_wallet_name,Name your wallet,命名钱包
+receive_set_amount,Amount of {{value}},{{value}} 数额
+loading_fees,Calculating Fee…,计算费用…
+advanced_testnet,Testnet,测试网络
+loading_home,Synchronizing…,同步中…
+import_mw_tips,"Enter your wallet mnemonic words, separated by space",请输入你的钱包助记词，以空格隔开
+import_mw_invalid,Invalid mnemonic words,助记词不合法
+import_name_wallet,Name this wallet to distinguish it from other wallet,给这个钱包命名，以便区分不同钱包
+mw_quantity,Select mnemonic words quantities,选择助记词数量
+send_payee,Payee,收款人
+send_to,To,至
+contacts_empty_tips,No Saved Address,未保存任何地址
+system_require_update,Update Required,需要升级
+system_bulletin,Maintenance Bulletin,维护公告
+system_update_available,Update Available,升级可用
+system_update_required_desc,"Update to at least version {{value}}  to continue use {{name}} , the current version may cause failures in transactions",请更新到至少版本{{value}} 以继续使用{{name}} ，当前版本可能会导致交易失败
+general_desc_update,Bug fixes and performance improvements,Bug修复和体验优化
+general_desc_title,What's New,更新内容
+me_share_title,Share Fingo,分享Fingo
+receive_specify_amount,Specify {{value}}  amount,指定{{value}} 金额
+create_advanced_testnet,"Testing network, for test only",测试专用网络
+status_create_wallet,Creating Wallet…,正在创建钱包…
+more_confirm_passphrase,Confirm Your Password,确认助记词密码
+transaction_none,No Transactions,暂无交易
+send_add_contact,Add Contact,添加联系人
+common_password,Password,密码
+common_date,Date,日期
+Common_next,Next,下一步
+mw_password_title,Mnemonic Words Password,助记词密码
+mw_password_skip,Skip if you haven't set a password,没有设置密码可跳过
+common_done,Done,完成
+set_transpw_title,Transaction Password,交易密码
+password_input,Input here,请输入
+tips_pw_set_success,Password set successfully,密码设置成功
+tips_pw_update_success,Password has been updated,密码修改成功
+add_contact_coins,Coin Type,币种
+add_contact_coins_select,Select,选择
+unlock_fingerprint,Tap to verify your fingerprint,点击验证指纹
+import_wallet_exist,Wallet already existed,钱包已存在
+contact_modify_name,Modify Name,修改名称
+contact_delete_alert,Are you sure you want to delete this contact?,确认要删除这个联系人吗？
+about_feedback_sent,Feedback Sent,反馈已提交
+me_currency_last_toast,Please keep at least one currency,请保留至少一种货币
+gas_higher_tips,Gas should be higher than {{value}},Gas值不能小于{{value}}
+gasp_lower_tips,"Gas Price too high, better be less than 100 gwei",Gas Price太高，建议小于100 gwei
+gasp_higher_tips,"Gas Price too low, should be higher than 1 gwei",Gas Price太低，建议大于1 gwei
+tips_transaction_send,Transaction Sent,发送成功
+tips_transaction_failed,Transaction failed to send,发送失败
+name_taken,"This name has been taken by an address, use another one",名称已经用于一个地址，换一个吧
+address_saved,Address already saved before,地址已保存
+receive_add_address,Adding Address…,添加地址…
+new_shared_wallet,Create Shared Wallet,创建共享钱包
+join_shared_wallet,Join Shared Wallet,加入共享钱包
+shared_nickname,Your Nickname,昵称
+shared_admins,Total Number of Admins,总管理员数
+shared_signs,Required Number of Signatures,所需签名数
+shared_invite_title,Share this invitation code to invite admins,分享邀请码邀请钱包管理员
+shared_invite_code,Invitation Code,邀请码
+shared_admin_list,Admin List,管理员列表
+common_waiting,Waiting…,等待加入…
+shared_cancel_invite,Cancel Invitation,取消邀请
+shared_cancel_tips,"Cancel Invitation will delete this wallet, are you sure?",取消邀请会删除这个钱包，确定要取消吗？
+shared_invite_tips,How to Use Invitation Code?,邀请码怎么使用？
+shared_invite_tips0,Tell your friend to:,让你的朋友：
+shared_invite_tips1,Use Fingo to scan the QR code,使用Fingo扫描邀请码二维码
+shared_invite_tips2,Or go to Add Wallet -> Join Shared Wallet -> enter the invitation code,或前往添加钱包->加入共享钱包->输入邀请码
+join_paste_code,Paste invitation code,粘贴邀请码
+common_join,Join,加入
+error_1304,Invalid invitation code,邀请码无效
+error_1306,"The wallet is full, can’t join it anymore.",钱包已满员，无法加入
+shared_create,CREATE PROPOSAL,创建付款提议
+common_reject,Reject,拒绝
+common_proposal,Proposal,付款提议
+transactions_creator,Creator,创建人
+transactions_time,Time Line,时间线
+timeline_accepted,Accepted,已接受
+timeline_created,Created,创建
+timeline_rejected,Rejected,已拒绝
+proposal_admin_delete,"24 hours has passed, you can now delete the proposal",距离提议创建已经24小时，你现在可以选择删除此提议
+proposal_delete,Delete Proposal,删除提议
+common_accept,Accept,接受
+proposal_broadcasted_tips,The transaction has already been broadcasted,此交易已经被广播
+timeline_broadcasted,Broadcasted,已广播
+proposal_reject_notice,Are you sure you want to reject this proposal?,你确认要拒绝此付款提议吗？
+proposal_rejecting,Rejecting,拒绝中…
+tstp_now,Just Now,刚刚
+tstp_minute,{{value}} minutes ago,{{value}}分钟前
+tstp_hour,{{value}} hours ago,{{value}}小时前
+tstp_day,{{value}} days ago,{{value}}天前
+delete_proposal_notice,"Delete proposal means cancel this transaction once and for all, are you sure?",删除提议意味着永久取消本次交易，你确认要删除吗？
+proposal_deleting,Deleting,删除中…
+proposal_signing,Signing Transaction…,签名交易中…
+proposal_creator_delete,You can delete this proposal before anyone accept it,在有其他管理员同意之前，你可随时删除提议
+proposal_lock_balance,Locked Balance:,锁定资金：
+shared_config_info,Wallet Configuration,钱包配置
+dust_tips,"Small dust input in the wallet, not all funds can be sent.",钱包中有少量Dust余额，无法发送所有资金
+send_address_save,Save Address,保存地址
+send_to_address,Send to,发送给
+common_not_select,Unselected,未选择
+common_scan,Scan,扫描
+common_select_coin,Select Coin,选择币种
+tab_prices,Prices,行情
+txn_moved,Moved,迁移
+common_fav,Favorites,收藏
+subtab_markect,Market cap,市值
+subtab_change,Change,涨跌幅
+common_bottom,It’s the bottom ~,到底咯~
+common_pull_refresh,Pull down to refresh,下拉刷新
+fav_search,Tap to search and add your favorite assets,点击搜索并添加币种到收藏列表
+common_price,Price,价格
+coin_price,Price ({{Value}}),价格({{Value}})
+data_from,Data comes from Coinmarketcap,数据来源于Coinmarketcap
+span_1d,1d,1天
+span_7d,1w,1周
+span_1month,1m,1月
+span_3m,3m,3月
+span_1y,1y,1年
+span_all,All,所有
+month_jan,Jan.,一月
+month_feb,Feb.,二月
+month_mar,Mar.,三月
+month_apr,Apr.,四月
+month_may,May.,五月
+month_jun,Jun.,六月
+month_jul,Jul.,七月
+month_aug,Aug.,八月
+month_sept,Sept.,九月
+month_oct,Oct.,十月
+month_nov,Nov.,十一月
+month_dec,Dec.,十二月
+search_hint,Enter coin name,输入币种名称
+ticker_no_result,No results for {{value}},搜索{{value}}无结果
+add_fav,Add Your Favorites,添加收藏
+common_update,Update Now,立即更新
+error_1302,"Can’t add more addresses, there are already 20 unused addresses",无法增加更多地址，当前已有20个未使用地址
+error_1401,"{{value}} is under maintenance now, please try again after the maintenance",{{value}}正在维护中，请再维护完成后再尝试
+error_1101,"Server error, please try again later",服务器错误，请稍后重试
+error_1301,Incorrect payment password,支付密码错误
+language_en,En,英
+language_zh,Zh,中
+password_check,Checking Password…,检查密码中…
+error_202,"Request too frequent, please try again later",请求过于频繁，请稍后再试
+address_not_match,The address you enter does not match selected coin type,您输入的地址与选择的币种不一致
+create_failed,"Failed to create wallet, please try again",创建钱包失败，请重试
+import_failed,"Failed to import wallet, please try again",导入钱包失败，请重试
+timestmp_today,Today,今天
+timestmp_yesterday,Yesterday,昨天
+err_403,"Failed to establish connection with server, please enter your password to reconnect",与服务端建立连接失败，请输入密码重试
+ins_miner_fee,Insufficient balance for miner fee,余额不足以支付矿工费
+confirming_lock,"Part of your balance has been locked because of transactions in confirmation, please try sending again later",确认中的交易导致部分余额被锁定，请稍后再尝试发送
+common_ok,OK,好的
+common_none,None,无
+common_edit,Edit Contact,编辑联系人
+common_copy,Copied to Clipboard,已复制
+mail_address_tips,You can also use the following email address to contact us,您可复制下方地址，直接联系我们
+confirm_mne_pw,"Please confirm your mnemonic passwords, make sure you will be able to restore this wallet later",请确认你的助记词密码，确保以后能成功恢复钱包
+new_proposal,New proposals,新提议
+proposal_sending,Sending,发送
+search_add_tips,Search for 500+ ETH tokens,搜索500+以太坊代币
+common_search,Search,搜索
+noti_center,Notifications,消息通知
+income_noti,Income Notification,入账通知
+noti_trans_failed,Transaction Failed ,转账失败
+noit_new_proposal,New Proposal,新提议
+common_notice,Notice,提示
+noti_receiced_content,Your wallet {{name}}  received {{value}} ,您的钱包{{name}}入账{{value}}
+send_failed,"The transaction to send {{value}} is failed, please try again",发送{{value}}的交易失败，请重试
+noti_proposal,{{creator}} created a new proposal to send {{value}} from shared wallet {{name}},{{creator}}创建了一个从{{name}}发送{{value}}的新提议
+proposal_deleted,The proposal has been deleted ,提议已经被删除
+noti_none,No notifications,暂无通知
+contact_us,Contact us,联系我们
+fingo_support,Fingo Support,Fingo客服
+error_1307,"The corresponding shared wallet already exists, please import in another device",该私钥对应的共享钱包已存在，请换一台设备导入
+shared_wallet_n,Create {{value}} Wallet,创建{{value}}钱包
+common_incomplete,Incomplete,未完成
+create_by,Created by,创建人
+eth_token_gas,"Sending ETH token requires ETH as miner fee, please recharge some ETH first",发送ETH代币需要ETH作为矿工费，请充值一些矿工费之后再转账
+remove_warning,"You have {{value}} {{coin}} left, are you sure you want to hide {{coin}}?",您还有{{value}} {{coin}}剩余，确认要隐藏{{coin}}吗？
+me_service,Services,服务
+not_match,The address does not match selected coin type,地址与所选币种不匹配
+coin_no_balance,No balance available for {{value}}, {{value}}无余额可用
+wallet_deleted,The relevant wallet has been deleted by you,相关钱包已被您删除掉
+wallet_single,Single Address Wallet,单地址钱包
+common_available,Available,可用
+common_failed,Failed,失败
+more_address,More Address,更多地址
+tips_press,Press for more options,长按查看更多操作
+option_default,Set as Receive Address,设为收款地址
+option_once,Copy Address,复制地址
+addresses_balance,Addresses with balance,有余额地址
+addresses_none_balance,Addresses without balance,无余额地址
+common_normal,Normal,常规地址
+common_segwit,Segwit,隔离见证
+new_address_tips,A new address has been generated,新地址已经生成
+none_balance_tips,No address has a balance,没有地址有余额
+normal_address_tips,Turn off Segwit Address in Home -> Me to use normal address ,在首页->我的将隔离见证地址关闭，就可以使用常规地址了
+segwit_address_tip,Turn on Segwit Address in Home -> Me to use Segwit Address,在首页->我的将隔离见证地址开启，就可以使用隔离见证地址了
+segwit_address_tipplus,Segwit address saves a certain miner fee in each BTC transaction,使用隔离见证地址能为每一笔BTC交易节省一定矿工费用
+camer_access,Fingo does not have access to  your Camera Roll,Fingo没有相册权限
+seg_wit,SegWit Address,隔离见证地址
+seg_wit_tips,"After turned on, the default receiving address of current wallets and future wallets will be segwit address",开启之后，当前所有钱包以及新建钱包的默认收款地址将使用隔离见证地址
+wallet_address,Wallet Addresses,钱包地址
+more_info,More Information,更多信息
+wallet_tyoe,Wallet Type,钱包类型
+wallet_config,Wallet Configuration,钱包配置
+single_address,Single Address,单地址
+extended_pub,Extended Public Key,拓展公钥
+common_path,Path,路径
+reload_balance,Sync Address Balance ,同步地址余额
+slides1_title,Control of Your Asset,掌控您的资产
+slides1_tip,No one can access your assets without the private key(mnemonic words) ,没有私钥(助记词)，任何人都无法获取您的资产
+slides1_action,Be sure to back up mnemonic words ,一定要备份助记词啊
+slides2_title,Security is Everything ,安全高于一切
+slides2_tip,Fingo provided four kinds of extra security measures for you to protect assets,Fingo为您提供了四种额外的安全措施来保护资产
+slides2_action,Choose what you need,可按需选择
+slides2_button,I See,我知道了
+slides3_title,Your Opinion is Valuable,您的意见最重要
+slides3_tip,"We want Fingo to be a product users really need, and we value every user’s opinion",我们希望Fingo成为用户真正需要的产品，也珍视每个用户的意见
+slides3_action,Feel free to contact us,欢迎联系我们
+slides3_button,I Will,我会的
+default_set,Already set as the default receive address,已设为默认收款地址
+default_cancelled,Cancelled the default receiving address,已取消默认收款地址
+confirm_payment,Confirm Payment,确认已付款
+common_merchant,Merchant,商户名称
+order_id,Order ID ,订单编号
+payment_wallet,Payment Wallet,付款钱包
+select_wallet,Select Wallet,选择钱包
+attempts_left,{{value}} attempts left,还可再试{{value}}次
+common_skip,Skip,跳过
+pic_no_pr,There is no QR code on the picture,图片上没有二维码信息
+common_album,Album,相册
+view_all,View All,查看所有
+common_on,On,开启
+common_off,Off,关闭
+new_address,New Address,新地址
+add_address,New,新增
+generate_tips,Generate a new address?,要新增地址吗？
+generate_tips_current,Generate a new address to replace the current one?,要新增地址替换掉当前地址吗？
+bitcoin_address,Bitcoin Addresses,比特币地址
+skip_back_up_tips,"If the backup is skipped and the wallet cannot be restored elsewhere, are you sure to skip?",如果跳过备份，在其它地方无法恢复钱包，确认跳过吗？
+live_chat,Live Chat,转人工
+common_robot,Robot,转机器
+request_timeout,"Request timeout, please try again later",请求超时，请稍后重试
+error_1402,The token contract does not allow this transaction,该代币合约不允许发送该交易
+common_description,Description,商品描述
+common_broadcasting,Broadcasting…,广播中…
+security_center,Security Center,安全中心
+common_telegram,Telegram ,Telegram
+robot_service,Robot customer service,智能客服
+necessary_measure,Necessary Measures,必要操作
+back_wallets,Back Up Wallets,备份钱包
+set_lock_app,Set Lock App Pin,设置锁定应用密码
+recommend_measure,Recommended Measures,推荐操作
+rm_no1,Add a mnemonic words passphrase,添加助记词密码
+rm_no2,Use hardware wallet ,使用硬件钱包
+rm_no3,Try Multi-signature Wallet,使用多签钱包
+security_status,System Security Status,系统安全状态
+contract_verify,False contract address identification,虚假合约地址检测
+key_security,Private key security,私钥安全性
+address_verify,Transfer address verification,转账地址验证
+transfer_verify,Transfer process protection,转账过程保护
+rm_no1_desc,"Go to Add wallet > Create Wallet > Name Wallet > Back Up Wallet, click Advanced Options and set a passphrase
+With this passphrase, even if someone stolen your mnemonic words, he can not access your asset without the passphrase","进入添加钱包 > 创建钱包 > 命名钱包 > 备份钱包，点击高级选项并设置密码
+设置密码后，即使有人偷走了你的私钥，也无法获取你的资金"
+rm_no2_desc,"Fingo will support Trezor and Ledger on desktop, please visit our website www.fingo.com and download desktop Fingo when available",Fingo桌面端将支持Trezor和Ledger两种硬件钱包，后续您可访问我们的网站 www.fingo.com 下载Fingo桌面端
+rm_no3_desc,"Multi-sig wallet has several private keys, it spares risks
+Go to Add wallet > Create shared wallet, and ask your friends to join your wallet","多签钱包拥有多个私钥，可以分散资金风险
+进入添加钱包 > 创建钱包，然后邀请您的朋友加入钱包"
+wallet_authorize,Wallet Authorization,钱包授权
+wallet_authorize_address,{{value}} would like to access your wallet addresses,{{value}}想要获取权限读取钱包地址
+common_allow,Allow,允许
+not_set,Not Set,未设置
+search_token_tips,"For more Tokens, please search directly",更多币种请直接搜索
+connecting_hardware,"Connecting to the hardware, please wait…",正在连接硬件，请稍等...
+blueteeth_tips,Please turn on your cellphone blue-teeth in settings,请在设置中打开手机蓝牙
+use_hardware,Use Hardware Wallet,使用硬件钱包
+guide_blueteeth,Turn on Blueteeth on your phone,在手机上打开蓝牙功能
+guide_hardware,Go to  Blueteeth on your hardware,进入硬件钱包的蓝牙连接界面
+guide_scan,Scan the QR Code to connect,扫描硬件上的二维码
+scan_qr_code,Scan QR code,扫描二维码
+scan_tips,Scan the QR code on your hardware wallet,请扫描硬件钱包上的二维码
+connect_tips,Please turn on your cellphone blue-teeth and hardware wallet,请启动手机蓝牙以及硬件钱包
+searching_buleteeth,Searching for blue-teeth…,搜索蓝牙中…
+common_connected,Connected,连接成功 
+confirm_tips,Please confirm the transaction on your hardware wallet,请在硬件钱包上点击确认交易
+rejected_tips,"The hardware rejected the transaction, please try again",硬件拒绝签名交易，请重试
+try_again,Try again,重试
+transaction_sent,"Transaction sent, waiting for confirmations",交易已成功发送，等待确认
+contact_eth_tips,The address of the Ethereum applies to all Ethereum tokens ,以太币的地址适用于所有以太坊代币 
+keyboard_return,Return,收起
+keyboard_space,Space,空格
+common_rank,Rank,排名
+connection_failed,"Failed to connect, please try again",连接失败，请重试
+hd_wallet,Fingo HD Wallet ,Fingo HD 钱包 
+hd_wallet_title,You have the absolute control of your assets,您可以完全掌控自己的资产
+loan_money,Loan Money,快速借钱
+common_newest,Newest,最新
+common_interests,Interests,利息
+common_filter,Filter,过滤
+identity_veried,Identity Verified,已实名
+annual_rate,Annual Rate,年化利率
+annual_rate_return,Annual Return Rate,年化利率
+common_pledges,Pledges,质押资产
+common_period,Peroid,周期
+loan_type,Loan asset type,借款币种
+pledge_type,Pledged asset type,质押币种
+loan_period,Loan period,借款周期
+common_account,Account,账户
+account_asset,Account Asset,账户资产
+indentity_verification,Identity Verification,实名认证
+identity_verified_status,Verified,已认证
+receiving_cards,Receiving Bank Cards,收款银行卡
+payment_desc,Payment Password are required when using your account assets,在您使用账户资产时，会需要验证支付密码
+common_reset,Reset ,重置
+log_out,Log out,退出登录
+reset_payment,Reset your payment password,重置支付密码
+forgot_password,Forget password?,忘记密码？
+add_card_desc,Add bank cards to receive other’s payments,添加银行卡以接收对方付款
+add_card,Add Bank Card,添加银行卡
+account_name,Account Name ,账户名
+enter_account_name,Enter account name,输入账户名
+bank_name,Bank Name,银行名称
+enter_bank_name,Enter bank name,输入银行名称
+open_branch,Account Opening Branch,开户支行
+enter_branch_name,Enter branch name,输入支行名称
+enter_card_number,Enter card number,输入卡号
+card_number,Card Number,卡号
+login_signup,Log in/Sign up,注册/登录
+enter_number,Enter your phone number,输入手机号
+enter_code,Enter Verfication Code,输入验证码
+common_resend,Resend,重发
+code_sen_desc,A verification code has been send to {{value}},验证码已发送至{{value}}
+pledge_amount,Pledge Amount,质押数量
+common_desc_optional,Descritpion(optional),描述（可选）
+button_publish,Publish Ads to Loan,发布广告开始借钱
+pledge_rate,Pledge Rate,质押率
+common_deposit,Deposit,充值
+common_agreements,Agreements,协议
+common_instructions,Instructions,引导
+common_decline,Decline,拒绝
+i_agree,I Agree,我同意
+deposit_tips,"Do not transfer any other type of asset to this address except {{value}}, or you will lose your money forever",除了{{value}}之外，不要将任何其他类型的资产转入这个地址，否则你将永远失去你的钱
+loan_detail,Loan Detail,借款详情
+common_created,Created,创建
+common_ordered,Ordered,下单
+common_paied,Paid,支付
+common_received,Received,收到
+ads_created,Loan Ads Created,借款广告已创建
+contact_loaner,Loaner’s Contact Info,借款人联系方式
+contact_investor,Investor‘s Contact Info,投资人联系方式
+pledge_detail,Pledged Detail,质押物详情
+pledge_status,Pladged Asset Status,质押资产状态
+create_time,Create time,创建时间
+service_fee,Service fee,手续费
+overdue_interests,Overdue Interests,逾期利息
+common_desc,Description,描述
+cancel_loan_buttion,Cancel Loan,取消借款
+cancel_loan_tips,Cancel Loan？,取消借款？
+cancel_loan_desc,Are you sure to cancel this loan?,确认要取消借款吗？
+investor_ordered,Investor ordered,投资人已下单
+payment_count,Payment Count Down,付款倒计时
+risk_control,Risk Control Strategies,风控策略
+corrent_price,Current Price of the Pledge,质押物当前单价
+alert_price,Alert Price,预警单价
+liquidate_price,Liquidation Price,平仓单价
+tips_no1,1. The loaner needs to add pledge when it’s price drops to alert price ,1. 质押物实时单价跌至预警价，借款人需即时追加质押
+tips_no2,2. The investor can liquidate the pledges when it’s price drops to the liquidation price,2. 质押物实时单价跌至平仓价，投资人可以使用质押物平仓
+tips_no3,3. The investor can liquidate the pledges when the loaner defaults on the repayment,3. 借款人逾期还款，投资人可以使用质押物平仓
+investor_paid,Investor Paid,投资人已支付
+paid_count_down,"Please check if you have received the payment, auto-confirm count down",请检查并确认是否收到款项，自动确认倒计时
+loan_received,Loan Received,收到款项
+repay_count,Repayment count down,还款倒计时
+common_support,Support,客服
+common_repay,Repay,还款
+repay_received,Repayment Received,还款已收到
+repay_timeout,Repayment timeout,还款超时
+delayed_desc,You have delayed {{value}} Day,您已经逾期{{value}}天
+delayed_desc_tips,You have {{value}} more days left to pay back the loan,您还有{{value}}天时间还清欠款
+repay_closed,Repayment Closed,还款截止
+closed_tips,"You haven’t repay your loan in time, liquidation has been executed and the pledged asset has been sent to the investor",由于您未及时还款，系统已经执行平仓，您质押的资产已经全部转至投资人账户
+common_check,Check,查看
+common_receipt,Receipt,凭据
+repay_loan,Repay the Loan,偿还借款
+time_left,Time left,剩余时间
+select_card,Select Card to Pay,选择对方收款银行卡
+bank_info,Bank Card Info,银行卡信息
+upload_receipt,Please upload your payment receipt,请上传您的支付凭据
+fee_deduct_desc,The interests and service fee will be deducted from your pledged coins,利息和服务费将从您质押的资产中扣除
+repay_received_button,I’ve received the repayment,我已收到还款
+repay_made,Repayment Made,已还款
+repay_confirm_count,Repayment confirmation count down,还款确认倒计时
+investor_received,The investor has received your repayment,投资人已收到您的还款
+loan_cancelled,Loan Cancelled,借款取消
+asset_freezing,Freezing,冻结中
+amount_repay,Amount you need to pay back,你需要还款的数量
+asset_released,Released,已解冻
+sent_to_investor,Sent to investor,已划转给投资人
+interest_deduct_desc,The interests your promised will be deducted from your pledged assets,您承诺的利息将从质押的资产中扣除
+confirm_paid,Confirm Paid,确认收款
+repay_sent,Repayment Sent,欠款已转还
+pledge_released,Your pledged asset has been released,您质押的资产已经解除冻结
+common_share,Share,分享
+loan_him,Loan Him/Her,给Ta借钱
+asset_pledged,"The assets pledged by the loaner is been kept on Fingo’s escrow account, feel free to invest",借款人质押的资产已经在Fingo托管账户，请放心出借
+invest_amount,Invest Amount,投资金额
+investor_pay_in,Please make your payment in:,请及时完成转账
+order_cancel_tips,Or the order will be automatically cancelled,倒计时结束，订单将自动取消
+common_pay,Pay,付款
+you_paid,You have paid,您已付款
+loner_received,Loaner received your payment,借款人已收到款项
+common_repaid,Repaid,已还款
+loner_repaied,The loaner has repaid,借款人已还款
+investor_repay_confirm,"Please check if you have received the repayment, auto-confirm count down",请检查并确认是否收到还款，自动确认倒计时
+repay_confirmed,Repayment confirmed,还款已确认
+deal_off,"The deal is off, check your interest at Me>Account>Account Assets",交易完成，请在我的>账户>账户资产中查收您的利息收益
+deal_closed,"the pledged coins is yours now, check it at Me>Loan Account>Account Assets",借款人质押的资产已转至您的账户，请在我的>账户>账户资产中查收
+overdue_tips,The loaner has {{value}} more days left to pay back the loan,借款人还有额外{{value}}天时间还清欠款
+usdt_closed,check your principal and interest at Me>Account>Account Assets,请在我的>账户>账户资产中查看您的本金和收益
+repay_received_status,Repayment Received,还款已收到
+sent_to_account,Sent to your account ,已划至您账户
+my_loans,My Loans,我的借款
+my_invests,My Investments,我的投资
+status_loaning,Loaning,借款中
+to_repay_tab,To Repay,待还款
+common_ended ,Ended,已结束
+common_pending,Pending,待处理
+common_receivables,Receivables,待回款
+common_listed,Listed,展示中
+pending_investor_pay,Pending Investor’s Payment,待投资者付款
+loaner_confirmation, Pending Loaner’s Confirmation,待借款人确认
+pending_confirmation,Pending your confirmation,待您确认收款
+pending_repay,Pending Repayment,待还款
+pending_investor_confirm,Pending Investor’s Confirmation,待投资人确认
+liquidate_near_status,"Nearing liquidation price, extra pledges needed",接近平仓价，需要加仓
+liquidate_pay_due,Liquidated(Payment overdue) ,已平仓(还款超时) 
+liquidate_margin_call,Liquidated(Margin Call) ,已平仓(爆仓)
+reoay_delayed,Repayment Delayed,还款逾期
+status_cancelled,Cancelled,已取消
+status_repaid,Repaid,已还款
+pending_you_pay,Pending Your Payment,等待您的付款
+total_invests,Total Investments ,总投资
+total_interests,Total Interests ,总收益
+common_investment,Investment,投资
+common_loan,Loan,借款
+total_loan,Total Loans,总借款
+total_asset,Total Assets,总资产
+total_gains,Total gains,总收益
+asset_detail,Asset detail,资产详情
+common_withdraw,Withdraw,提现
+under_review,Under Review,审核中…
+loan_reparation,Loan defaults reparations,借款违约赔款
+interest_expense,Interest expense,利息支出
+common_refund,Refund,资产解冻
+common_reparation,Reparation,赔款
+common_apply,Apply,应用
+common_clear,Clear,清除
+coin_type,Coin type,币种
+records_type,Records type,记录类型
+accumulated_gains,Accumulated gains,累计收益
+investment_gains,Investment gains,投资收益
+withdraw_coin,Withdrawal Coin,提现币种
+withdraw_to,Withdraw to,提现至
+available_withdraw,Available for withdraw,可提现总额
+receiving_wallet,Receiving Wallet,收款钱包
+receiving_address,Receiving Address,收款地址
+add_pledge_tips,You need to add Pledge,您需要追加质押
+add_pledge,Add Pledge,追加质押
+pledge_received,Pledge Received,已收到质押资产
+add_pledge_desc,"Since the price your pledge is dropping below the warning price, you need to add at least {{value}} as pledge asap.",由于您的质押资产价格低于预警价格，你需要尽快增加至少 {{value}}作为质押
+amount_to_add,The amount of asset to add,追加质押资产的数量
+confirm_pledge,Confirm Pledge,确认质押
+liquidate_excuted,Liquidation is excuted,已执行平仓
+liquidate_excuted_desc,"The price of the pledged asset is below liquidation price, the investor has chosen to close the order",质押的资产价格已跌至平仓价，投资人已选择平仓收回投资成本
+to_repay,To Repay,去还款
+repay_made_tips,"Are you sure you have made the repayment? If not, your clicks may result in account been locked",您确认已经还款？随意点击可能导致账户被锁定
+liquidation_income,Liquidation Income,出借资金平仓收入
+invest_principal,Investment Principal,投资本金回收
+common_profits,Profits ,收益
+loan_fees,Loan fees ,借款费用
+pledges_released,Pledges Released,质押资产解冻
+common_days,days,天
+order_preempted,Preempted,已被抢
+loan_amount,Loan Amount,借款金额
+common_payment,Payment,付款
+common_verification,Verification,验证
+verification_code,Verification Code,验证码
+get_code,Get Code,获取验证码
+minutes_abr,min,分
+seconds_abr,sec,秒
+pay_password,Payment Password,支付密码
+card_holder_name,Card holder Name,持卡人姓名
+card_branch,Card Issuance Branch,开卡支行
+error_2204,Invalid verification code,无效的验证码
+error_2201,Invalid phone number,无效的手机号
+take_photo,Take Photo,拍照
+choose_album,Choose from Album,选择照片
+holder_copied,Card holder name copied,持卡人姓名已复制
+bank_name_copied,Bank name copied,银行名已复制
+issuance_copied,Card issuance branch copied,发卡行名称已复制
+card_number_copied,Card number copied,卡号已复制
+memo_copied,Memo copied,备注已复制
+margin_call,Margin Call,爆仓
+common_close,Close,平仓
+close_status_title,Close Position price reached,已到平仓价位
+close_status_desc,You can close this order to reclaim your investment ,您可以选择平仓来回收投资成本
+closed_title,You closed the position,您已平仓
+common_closed,Closed,已平仓
+repay_deadline,Repay Deadline,还款截止
+common_loaner,Loaner,借款人
+error-2202,"Login to frequent, please try later",登录过于频繁， 请稍后再试
+error_2203,The account is locked,账号被锁
+error_2106,Failed to upload photos,图片上传失败
+error_2108,"Error in sending message, please try again",短信发送网络错误，请重试
+account_available,Available Account Asset,账户可用资产
+pay_timeout,"Payment timeout, please order again",付款超时，请重新下单
+pay_timeout_desc,"If you have paid, you can try order again and confirm payment, or you can contact customer support",如果您已付款，您可重新下单并确认已付款，或者您可以联系客服处理
+repay_received_confirm,Are you sure you have received the repayment?,您确认已经收到还款了吗？
+repay_amount,Repay Amount,还款金额
+payment_confirmation,Payment confirmation count down,付款确认倒计时
+payment_received,Payment Received,收到付款
+repay_count_loaner,The loaner will repay you in,借款人还款倒计时
+confirm_investment,Confirm Investment,确认投资
+repay_delayed_days,Repayment delayed {{value}} day(s),还款逾期{{value}}天
+set_pay_password,Set Payment Password,设置支付密码
+payment_password_desc,Please set a payment password for your account assets,请为您的账户资产设置支付密码
+payment_confirm_tips,Are you sure you have made the payment?,您确认已经完成付款了吗？
+card_delete_tips,Are you sure you want to delete this bank card?,确认要删除此收款银行卡吗？
+payment_received_button,I Received the Payment,我已收到付款
+payment_received_tips,Are you sure you have received the payment?,您确认已经收到付款了吗？
+settings_auth_info,Identity Verification,身份认证
+identity_unverified,Unverified,未认证
+auth_idcard,ID Card,身份证
+auth_idps_number,ID or Passport Number,身份证或护照号
+auth_china,China,中国
+auth_enter_number,Enter your ID number,输入证件号码
+auth_front,Front,正面
+auth_back,Back,反面
+auth_passport_tips,Submit a clear photo of your passport,请提交您的护照照片
+auth_reviewing,Your information is under review now…,您的信息正在审核当中…
+auth_submit_tips,Submit a clear back and front photo of your ID card,请提交您的身份证正反面照片
+auth_type,Type of Certificate,证件类型
+auth_verified_idphoto,ID Photo,证件照片
+auth_verified_tips,Your Identity information has been verified,您的身份信息已经验证
+auth_with_idcard,Submit a picture of yourself holding your ID card,请提交一张本人手持身份证的照片
+failed_try_again,"Identity Verification failed, please try again",身份认证失败，请重试
+wallet_not_available,"No wallet available, you can create one",暂无钱包可用，您可创建一个
+amount_lowest,Loan amount can’t be smaller than {{value}},借款金额不能小于{{value}}
+amount_highest,Loan amount can’t be larger than {{value}},借款金额不能大于{{value}}
+period_lowest,Loan period can’t be smaller than {{value}},借款天数必须大于{{value}}
+period_highest,Loan period can’t be larger than {{value}},借款天数必须小于{{value}}
+pledge_rate_lowest,Pledge rate must be higher than {{value}},质押率必须大于{{value}}
+pledge_rate_highest,"Pledge rate must be less than {{value}}, you have to pledge at least {{coin}}",质押率必须小于{{value}}，您需要最少质押{{coin}}
+annual_rate_lowest,Annual return rate can’t be 0,年化利率不能为0
+annual_rate_highest,"Annual return rate must be less than {{value}}, it can be up to {{coin}}",年化利率需小于{{value}}，最多可为{{coin}}
+order_cancel_desc,Are you sure you want to cancel this order?,确认要取消订单吗？
+close_tips,Close this order means you will receive the loaner’s pledged assets to offset your investment costs,平仓意味着您将收到对方质押的资产，以抵消您的投资成本
+common_status,Status,状态
+common_confirmed,Confirmed,已确认
+common_records,Records,记录
+complete_pic,Slide to complete the picture,滑动完成拼图
+suggest_amount,Suggest Amount,建议数量
+this_month,This Month,本月
+withdraw_record,Withdraw Record,提现记录
+deposit_record,Deposit Record,充值记录
+add_card_investor,Please add bank card to receive repayment,请添加银行卡以便接收对方的还款
+add_card_loaner,Please add bank card to receive payment,请添加银行卡以便接收对方的付款
+confirm_repayment,Confirm Repayment,确认还款
+loaning_none,No loaning order,暂无借款中的订单
+repayment_none,No order pending your repayment,暂无待还款的订单
+complete_none,No completed order,暂无已完成的订单
+pending_none,No order pending,暂无待处理的订单
+pending_repay_none,No order pending repayment,暂无待回款的订单
+gains_none,"No gains, go invest now",暂无收益，赶快去投资吧
+send_from,Send from,发送至
+validate_till,Address valid until,地址有效期至
+minimal_deposit,Minimal Deposit Amount,最小充值额
+error_2601,"Failed to get deposit address, please try again later",获取不到充值地址，请稍后重试
+common_forever,Forever,永久
+verify_tips,Please complete the identity verification first,请先完成实名认证
+verify_identity,Verify Identity,验证身份
+error_2502,This is your own loan order~,这是您自己的借单哦～
+interger_tips,Please enter an integer,请输入整数
+read_agreements,"Please read the following agreement carefully, check and confirm before proceeding to the next step",请认真阅读以下协议，勾选确认后进行下一步
+read_confirm,I have read and agree with {{value}},我已阅读并同意{{value}}
+payee_name_inconsistent,Payee name is not consistent with the identity of account,收款人名称与账号认证的身份不一致
+withdraw_bottom,Withdrawal amount cannot be less than {{value}},提现金额不能少于{{value}}
+withdraw_top,Withdrawal amount cannot be more than {{value}},提现金额不能多于{{value}}
+invest_detail,Invest Detail,投资详情
+due_date,Expected Due Date,预期到期时间
+arrival_amount,Actual arrival amount {{value}},实际到账金额{{value}}
+error_2505,"The order status has changed, the operation failed, please refresh and try again",订单状态发生变化，操作失败，请刷新后重试
+withdraw_refused,Withdraw Refused,提现被拒
+withdraw_cancelled,Withdraw Cancelled,提现已取消
+withdraw_cancel_tips,Are you sure you want to cancel withdraw?,确认要取消提现申请吗？
+common_today,Today,今天
+common_tomorrow,Tomorrow,明天
+letter_authorize,letter of authorization,授权委托书
+crypto_disposal,Crypto Asset Disposal Agreement,数字资产处置协议
+loan_agreement,Loan Agreement,借贷协议
+common_general,General,通用
+word_error,"Word input error, please check the red prompt and retype",有单词输入错误，请检查红色提示部分并重输
+close_line,Close position line,平仓线
+alert_line,Alert line,预警线
+alert_line_desc,"Alert line: If the pledged asset value drops to the alert line, the loaner needs to add pledge to ensure the adequacy of the pledge",预警线：质押资产的价值跌至预警线，需要借款人追加质押，以保证质押的充足
+close_line_desc,"Close position line: When the asset value falls to the close position line, the investor’s investment is at risk. The investor can thus close the position and offset the investment cost with the assets pledged by the loaner
+
+",平仓线：当资产价值跌至平仓线，接近借款金额时，投资人有无法收回投资成本的风险，此时投资人可以手动平仓，以借款人质押的资产抵消投资成本
+fees_loaner_desc,* The interests does not include service fee,* 利息不包含服务费
+fees_investor_desc,* The service fee will be deducted from interest income,* 服务费将从利息收入中扣除
+term_definition,Term definition,期限定义
+value_date,Value Date,起息日
+due_date_time,Due Date,还款日
+tnx_time,Transaction Time,成交时间
+due_time,Due Time,到期时间
+maximun_overdue,Maximum days overdue,最大逾期天数
+value_date_desc,i.e. the next day the loan succeed,即借款成功第二天开始计算
+n_date_desc,n means the total loan period ,n为总借款天数
+overdue_desc,Failure to repay on or before the due date shall be deemed as overdue,还款日未完成还款即视为逾期
+overdue_definition,Overdue calculation method,逾期计算方式
+overdue_days,Overdue {{value}} days,逾期{{value}}天
+interests_triple,Daily interests*3,日利率*3
+service_fee_triple,Service fee*3,服务费*3
+cancel_withdraw_desc,Are you sure you want to cancel withdraw?,确认要取消提现吗？
+push_order_cancelled,The investor cancelled the order and your order has been listed again,投资人取消订单，您的订单已经恢复展示
+push_order_timeout,The investor did not pay in time and your order has resumed listing,投资人付款超时，您的订单已经恢复展示
+invite_title,Invite friends to enjoy multiple gifts,邀请好友享多重好礼
+invite_friends,Invite friends,邀请好友
+gifts_up_to,"Gifts worth up to 20,000 CNY","最高价值20,000元的好礼"
+invite_desc,"Get a bonus and commission of up to 20,000 CNY","获取最高价值20,000元的奖励与佣金"
+invite_now,Invite Now,立即邀请
+common_wechat,Wechat,微信
+common_moments,Moments,朋友圈
+common_qq,QQ,QQ
+save_image,Save Image,保存图片
+image_saved,Image saved,图片已保存
+failed_save,Failed to save image,图片保存失败
+my_invitations,My invitations,我的邀请
+invite_first_tips,"Invite friends to loan and invest, get bonus of up to 10,000 CNY","邀请好友下单，累计可获价值高达10,000元的奖励"
+first_order_reward,First Order Reward,首单奖励
+commission_reward,Commission Reward,提成奖励
+commission_desc,"Enjoy a commission of up to 10,000 CNY","享最高价值高达10,000元的提成"
+comming_soon,coming soon…,敬请期待
+common_coupons,Coupons,优惠票券
+coupons_desc,Exchange service fee voucher and withdraw coupon,兑换服务费券和提现券
+physical_gifts,Physical Gifts,实物专场
+physical_gifts_desc,Get kitchen sets and other gifts,抢拉杆箱/厨房8件套等大礼
+accum_reward,Accumulated Reward,累计奖励
+friends_invited,Friends Invited,邀请人数
+number_rewards,Number of rewards,奖励次数
+reward_record,Rewards record,奖励记录
+no_invited,"No friends have been invited yet, keep going～",暂未邀请到好友，继续加油哦～
+no_reward,"No reward received yet, keep going～",暂无奖励，继续加油哦～
+invitation_reward,Invitation reward,邀请奖励
+trans_fee,Transaction Fee,交易费
+amount_minimum,The amount can’t be smaller than 546 sat,发送金额不能小于546聪
+trans_fee_insufficient,Please recharge BTC at least 546 sat to the USDT address before sending the USDT,请先充值BTC至少546聪至USDT地址再发送USDT

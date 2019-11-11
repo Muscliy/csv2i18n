@@ -1,0 +1,141 @@
+Key,English,Chinese
+common_overview,Overview,总览
+lanuch_tips,Please connect to your hardware wallet,请连接到您的硬件钱包
+lanuch_ledger_tips,"Ledger user, connect and unlock your device",Ledger 用户，连接并解锁你的设备
+scan_device,Scan for Device,扫描设备
+lanuch_trezor_tips,"Trezor user, just connect your device",Trezor用户，请先连接您的设备
+common_scanning,Scanning for device…,扫描设备中…
+no_device_found,"No device found, please check the connection and try again",没有发现任何设备，请检查连接并重试
+unnamed_ledger,Unnamed Ledger,未命名Ledger
+Unnamed_trezor,Unnamed Trezor,未命名Trezor
+ledger_unlock_tips,* Please unlock your device open the bitcoin wallet on the device ,*请解锁您的设备，打开设备上的比特币钱包
+trezor_unlock_tips,Please enter your PIN code according to the keyboard of the device,请根据设备上的键盘输入您的密码
+pincode_error,Incorrect PIN code,PIN码错误
+add_coin,Add Coin,添加币种
+common_cancel,Cancel,取消
+no_result,No Search Result,搜索无结果
+total_assets,Total Assets,总资产
+common_scan,Scan,扫描
+common_send,Send,发送
+common_receice,Receive,接收
+common_type,Type,种类
+first_wallet,My first wallet,我的第一个钱包
+available_balance,Available balance,可用余额
+common_transactions,Transactions,交易记录
+no_transaction,No transactions yet,暂无交易
+common_sent,Sent ,发送
+common_receiced,Received,接收
+transaction_detail,Transaction detail,交易详情
+receive_address,Receive address,接收地址
+common_sender,Sender,发送方
+send_from,Send from,发送自
+common_to,To,至
+miner_fee,Miner Fee,矿工费
+common_confirms,Confirmations,确认块数
+common_date,Date,日期
+common_memo,Memo,备注
+scan_code,Scan QR Code,扫描二维码
+scan_tips,Show the address QR Code to the camera ,请向相机展示您的地址二维码
+error_no_addresss,No Address detected,发现没有地址
+address_match_error,The address does not match selected coin,地址与选中的币种不匹配
+select_contact,Select Contact,选择联系人
+no_contact,No saved contact,未保存联系人
+connection_lost,"Connection lost, please check your device",连接中断，请检查您的设备
+common_connected,Hardware wallet connected,硬件已连接
+common_contact,Contacts,通讯录
+common_add,Add,添加
+select_coin,Select Coin,选择币种
+common_unselected,Unselected,未选中
+common_create,Create,创建
+common_sign,Sign,签名
+common_amount,Amount,金额
+common_average,Average,常规
+common_economy,Economy,经济
+common_prioritized,Prioritized,优先
+common_customize,Customize,自定义
+common_next,Next,下一步
+hardware_confirm_tips,Please connect your device and confirm the transaction on the device,请连接您的设备并在设备上确认交易
+soft_sent_tips,"The signed transaction has been successfully sent, waiting for confirmations",签名完成的交易已成功发送，正等待确认
+view_txn,View Transaction,查看交易
+common_done,Done,完成
+txn_rejected,"The transaction has been rejected by hardware, please try again",交易被硬件拒绝，请再试一次
+balance_insufficient,Insufficient Balance,余额不足
+try_again,Try again,重试
+copy_address,Copy Address,复制地址
+save_code,Save QR code,保存二维码
+generate_address,Generate a new address?,要生成一个新地址？
+new_address,New Address,新地址
+more_address,More addresses,更多地址
+switch_iban,Switch to iban,切换至iban
+switch_hex,Switch to hex,切换至hex
+specify_amount,Specify Amount,指定金额
+common_confirm,confirm,确认
+common_settings,Settings,设置
+wallet_info,Wallet Info,钱包信息
+common_currency,Currency,显示货币
+common_language,Language,语言
+lock_app,Lock App,锁定应用
+pin_tips,Set a PIN to lock the application,设置PIN码锁定应用
+sgw_address,SegWit Address,隔离见证地址
+sgw_address_tips,Segwit address saves a certain miner fee for bitcoin transaction,隔离见证地址能为每一笔BTC交易节省一定矿工费
+common_about,About,关于
+contact_us,Contact Us,联系我们
+common_faq,FAQ,常见问题
+address_copied,Address copied,地址已经复制
+qr_saved,QR code image saved,二维码图标已保存
+pins_not_match,PINs does not match!,PIN码不一致！
+set_pin,Set lock app PIN,设置锁定应用PIN
+enter_pin,Enter your PIN ,输入PIN
+repeat_pin,Confirm your PIN,确认PIN
+pin_off_tips,"To turn off lock app feature, please enter your current PIN code",要关闭锁应用应用功能，请输入当前PIN码
+add_contact,Add Contact,添加联系人
+select_coin_type,Select Coin Type,选择币种
+common_address,Address,地址
+enter_address,Enter Address,输入地址
+contact_name,Contact Name ,联系人名称
+enter_name,Enter name,输入名称
+common_save,Save,保存
+wallet_name,Wallet Name,钱包名称
+term_service,Terms of Service,服务条款
+privacy_policy,Privacy Policy,隐私政策
+wallet_type,Wallet Type,钱包类型
+extended_key,Extended Public Key,拓展公钥
+show_xpubs,Show XPUBs,展示拓展公钥
+wallet_addresses,Wallet Addresses,钱包地址
+delete_wallet,Delete wallet,删除钱包
+delete_tips,Delete wallet from Fingo Desktop?,将钱包从Fingo桌面端删除？
+common_yes,Yes,是的
+bitcoin_address,Bitcoin Addresses,比特币地址
+error_1202,Invalid Address,地址不合法
+error_network,"Network error, check your network and try again",网络错误，请检查网络后重试
+error_1304,Invalid invitation code,邀请码无效
+error_1306,"The wallet is full, can’t join it anymore.",钱包已满员，无法加入
+error_1302,"Can’t add more addresses, there are already 20 unused addresses",无法增加更多地址，当前已有20个未使用地址
+error_1401,"{{value}} is under maintenance now, please try again after the maintenance",{{value}}正在维护中，请再维护完成后再尝试
+error_1101,"Server error, please try again later",服务器错误，请稍后重试
+error_1301,Incorrect payment password,支付密码错误
+error_202,"Request too frequent, please try again later",请求过于频繁，请稍后再试
+error_1307,"The corresponding shared wallet already exists, please import in another device",该私钥对应的共享钱包已存在，请换一台设备导入
+error_1402,The token contract does not allow this transaction,该代币合约不允许发送该交易
+common_back,Back,返回
+common_loading,Loading,加载中…
+common_sending,Sending,发送中…
+common_ok,OK,好的
+common_none,None,无
+common_search,Search,搜索
+common_notice,Notice,提示
+common_normal,Normal,常规地址
+common_segwit,Segwit,隔离见证
+common_path,Path,路径
+gas_higher_tips,Gas should be higher than {{value}},Gas值不能小于{{value}}
+gasp_lower_tips,"Gas Price too high, better be less than 100 gwei",Gas Price太高，建议小于100 gwei
+gasp_higher_tips,"Gas Price too low, should be higher than 1 gwei",Gas Price太低，建议大于1 gwei
+tips_transaction_send,Transaction Sent,发送成功
+tips_transaction_failed,Transaction failed to send,发送失败
+dust_tips,"Small dust input in the wallet, not all funds can be sent.",钱包中有少量Dust余额，无法发送所有资金
+mail_address_tips,You can also use the following email address to contact us,您可复制下方地址，直接联系我们
+search_add_tips,Search for 500+ ETH tokens,搜索500+以太坊代币
+new_address_tips,A new address has been generated,新地址已经生成
+none_balance_tips,No address has a balance,没有地址有余额
+normal_address_tips,Turn off Segwit Address in Home -> Me to use normal address ,在首页->我的将隔离见证地址关闭，就可以使用常规地址了
+seg_wit_tips,"After turned on, the default receiving address of current wallets and future wallets will be segwit address",开启之后，当前所有钱包以及新建钱包的默认收款地址将使用隔离见证地址

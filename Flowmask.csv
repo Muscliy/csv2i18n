@@ -1,0 +1,508 @@
+Key,English,Chinese
+start_new_wallet,Create Wallet,创建钱包
+start_import_wallet,Import Wallet,导入钱包
+start_new_backup,Start Backup,开始备份
+start_new_backup_skip,Backup Later,以后再备份
+start_new_backup_wallet,Backup Wallet,备份钱包
+backup_wallet_prenotice,"To restore your wallet in any cases, please back the mnemonic words for this wallet",为了方便你以后恢复此钱包，请备份你的钱包助记词
+backup_wallet_introduce,"The wallet mnemonic is a 12-bit random word corresponding to the wallet's private key, you can restore your wallet with these words at any time with it",钱包助记词为对应钱包私钥的12位随机单词，使用助记词，您可随时恢复钱包并使用其中资产
+backup_wallet_men,Please record the following mnemonic words in order and keep them offline. It is recommended to write them on paper and keep it safe,请按顺序记录以下助记词，并离线保存在安全的地方，建议抄写在纸上，并妥善保存
+mnemonic_number,Number of Mnemonic Words,助记词数量
+mnemonic_advance,Advanced Options,高级选项
+common_wrote,I've Written Down,我已经记下
+mnemonic_passphrase,Add a password to protect the mnemonic words(Optional),添加助记词密码保护助记词(可选)
+mnemonic_passphrase_tips,"If you lost the password, you will not be able to restore your wallet with mnemonic words only, your funds are irrecoverable.",助记词密码如果丢失，仅助记词将无法恢复钱包，资金将无法找回，请妥善保管
+common_input_ps,Enter Password,输入密码
+common_confirm_ps,Repeat Password,确认密码
+toast_ps_not_match,The passwords does not match!,两次密码不一致！
+mnemonic_confirm,Confirm Mnemonic Words,确认助记词
+mnemonic_confirm_desc,Select the mnemonic words by the order of your record to ensure your record is correct,请按记录的顺序选择助记词，以确保您的记录是正确的
+common_confirm,Confirm,确认
+toast_incorrect_mnemonic,"Incorrect Mnemonic Words, please try again",助记词错误，请重新输入
+mnemonic_remove_title,Remove Mnemonic Words,移除助记词
+mnemonic_remove_desc,"Confirmed, do you want to remove your mnemonic words from the app?",确认完成，是否将助记词从应用中移除？
+common_cancel,Cancel,取消
+common_delete,Delete,删除
+common_first_wallet,My First Wallet,我的第一个钱包
+tab_wallet,Wallet,钱包
+tab_trends,Ticker,行情
+tab_me,Me,我的
+more_add_wallet,Add Wallet,添加钱包
+wallet_add_coin,Add Coins,添加币种
+common_back,Back,返回
+coin_send,Send,发送
+coin_receive,Receive,收款
+coin_received,Received,收入
+coin_sent,Sent,支出
+coin_send_confirming,Confirming,确认中
+coin_transactions,Transactions,交易记录
+coin_none_balance,No balance available,无余额可用
+coin_send_failed,Transaction Failed,交易失败
+wallet_scan_qrcode,Scan QR Code,扫描二维码
+coin_insufficient_balance,Insufficient Balance,余额不足
+coin_send_title,Send {value},发送{value}
+coin_receive_address,Receive Address,收款地址
+coin_send_address_hint,Enter address or contact name,输入地址或联系人
+common_contacts,Contacts,联系人
+contacts_show_all,Show All,展开所有
+coin_transfer_other_wallet,Send to My Wallet,转到自己钱包
+common_address,Address,地址
+common_name,Name,名称
+error_1202,Invalid Address,地址不合法
+common_amount,Amount,金额
+coin_send_fee,Miner Fee,矿工费用
+fee_level_common,Common,常规
+fee_desc,{value}  of the sending amount,约为发送金额的{value}
+common_pay_now,Pay Now,立即支付
+send_add_memo,Add memo,添加备注
+fee_level_urgent,Urgent,紧急
+fee_level_desc,Fee Options,费用选项
+send_average_confirm_timw,Average Confirm Time,平均确认时间
+common_hours,{value} hour,{value}小时
+common_minutes,{value} minutes,{value}分钟
+fee_level_prioritized,Prioritized,优先
+fee_level_current,Current Fee,当前政策费率
+fee_policy_title,{value}  Miner Fee Policy,{value} 矿工费用政策
+fee_level_economy,Economy,经济
+fee_level_supereco,Super Economy,超级经济
+fee_custom,Customize,自定义
+fee_low_notice,"This fee is too low, might take long to confirm",费用过低，确认会非常慢
+fee_high_notice,The fee should be below {value},费用不得高于{value}
+send_pay_confirm_title,Enter Transaction Password,请输入交易密码
+send_pay_confirm_button,Confirm Payment,确认支付
+toast_incorrect_password,Incorrect Password,密码错误
+toast_try_again_in,Try again in {value}  minutes,{value} 分钟后再试
+receive_current_address,Current Address,当前地址
+receive_address_copied,Address Copied to Clipboard,地址已复制
+transaction_detail,Transaction Detail,交易详情
+transaction_detail_pay_address,Payment Address,付款地址
+transaction_detail_fee,Transaction Miner Fee,交易矿工费
+transaction_detail_confirmations,Confirmed Blocks,确认块数
+transaction_detail_timestamp,Transaction Time,交易时间
+transaction_detail_memo,Memo,备注
+transaction_detail_view_more,View More,查看更多
+me_manage_wallets,Manage Wallets,管理钱包
+me_push,Push Notifications,推送通知
+me_currency,Currency,计价货币
+me_language,Language,语言
+me_lock_app,Lock App,锁定应用
+me_about,About,关于
+me_share,Share,分享
+me_wallet_name,Wallet Name,钱包名
+me_wallet_password,Set Transaction Password,设置交易密码
+me_wallet_delete,Delete Wallet,删除钱包
+me_wallet_name_desc,Modify the wallet name to distinguis different wallets,修改钱包名称，便于区分不同钱包
+common_sace,Save,保存
+me_wallet_password_desc,After adding the password you will be required to enter it to view important information and perform transactions.,添加密码后，在查看助记词等重要信息及转账时将需要此密码确认
+me_wallet_password_change,Change Transaction Password,修改交易密码
+me_wallet_password_old,Old Password,旧密码
+me_wallet_password_new,New Password,新密码
+me_wallet_password_confirm,Confrim New Password,确认新密码
+me_incorrect_old_pw,Incorrect old password!,旧密码错误！
+me_wallet_delete_title,Warning,警告
+me_wallet_delete_desc1,This operation can not be undone,此操作无法撤销
+me_wallet_delete_desc2,"Before you delete the wallet, make sure you have backed up the mnemonic words, otherwise you will lost your funds",删除之前，请确认你已经备份了钱包助记词，否则钱包内的资金可能永远丢失
+me_wallet_delete_popup_desc,Are you sure you want to delete this wallet?,确认要删除这个钱包吗？
+common_confirm_pw,Confirm your transaction password to proceed,确认密码后继续
+contacts_view,View Contact,查看联系人
+contact_delete,Delete Contact,删除联系人
+me_about_help,Help,帮助
+me_about_feedback,Feedback,意见反馈
+me_about_faq,FAQ,常见问题
+me_about_policy,Privacy Policy,隐私政策
+me_about_terms,Terms of Service,服务条款
+me_about_version,Version,版本
+me_about_feedback_tips,Write down your valuable feeback,请写下您的宝贵建议
+feedback_mailtitle,User Feedback,用户反馈
+me_currency_desc,"Please select currencies for quick switch at Wallet, 5 at most",请勾选在首页可快捷切换的货币，最多可选择5种
+me_lock_app_desc,"Add a lock app password, launch the app requires password confirmation, therefore other people will not be able to see your funds freely",添加锁定应用密码后，启动应用需要解锁，其他人将无法随意查看到你的资产
+me_lock_app_no,Do not Lock,不锁定
+me_lock_app_pin,Use PIN,数字密码
+me_lock_app_fingerprint,Use Fingure Print,指纹锁定
+me_lock_app_pin_desc,Set Lock App Password,设置锁定应用密码
+common_pin_unlock_desc,Enter password to unlock,输入密码解锁
+home_back_up_tips,Backup Undone,未备份
+tips_transaction_pw_set,"To protect your funds, please set a transaction password",为保证您的资金安全，请设置交易密码
+eth_send_confirm_gas,Gas,Gas
+eth_send_confirm_gasprice,Gas Price,Gas Price
+eth_send_confirm_data,Hexadecimal Data,十六进制数据
+common_loading,Loading,加载中…
+common_sending,Sending,发送中…
+hint_enter_address,Enter Address,输入地址
+hint_enter_name,Enter Name,输入名称
+hint_enter_amount,Enter Amount,输入数额
+hint_enter_rate,Enter Rate,输入费率
+hint_enter_password,Enter Password,输入密码
+hint_enter_old_password,Enter Old Password,输入旧密码
+hint_enter_new_password,Enter New Password,输入新密码
+hint_repeat_new_password,Repeat New Password,重复新密码
+wallet_token_add_new,Add your first Coin,添加你的虚拟币
+wallet_empty_tips_title,Create Your Wallet,创建你的钱包
+wallet_empty_create_button,Create Wallet,创建钱包
+wallet_empty_tips,"You have no wallet yet, create a wallet to manage your tokens",还没有钱包，立即创建钱包管理你的虚拟币
+send_request_fp,Requesting fingerprint…,请求指纹…
+password_limit,Password should be 8 characters or more,密码至少需要8位字符
+memonic_confirmed_toast,Mnemonic words confirmed,助记词确认成功
+error_network,"Network error, check your network and try again",网络错误，请检查网络后重试
+backup_extra_password,"If you add a password, you will need to use both the mnemonic words and password to restore your wallet",添加密码后，恢复钱包时，必须同时使用助记词和助记词密码
+start_agree_terms,"By using Asilink, you agree to our {value}",使用Asilink即表示你同意我们的{value}
+import_wallet_name,Name your wallet,命名钱包
+receive_set_amount,Amount of {value},{value} 数额
+loading_fees,Calculating Fee…,计算费用…
+advanced_testnet,Testnet,测试网络
+loading_home,Synchronizing…,同步中…
+import_mw_tips,"Enter your wallet mnemonic words, separated by space",请输入你的钱包助记词，以空格隔开
+import_mw_invalid,Invalid mnemonic words,助记词不合法
+import_name_wallet,Name this wallet to distinguish it from other wallet,给这个钱包命名，以便区分不同钱包
+mw_quantity,Select mnemonic words quantities,选择助记词数量
+send_payee,Payee,收款人
+send_to,To,至
+contacts_empty_tips,No Saved Address,未保存任何地址
+system_require_update,Update Required,需要升级
+system_bulletin,Maintenance Bulletin,维护公告
+system_update_available,Update Available,升级可用
+system_update_required_desc,"Update to at least version {value}  to continue use {name} , the current version may cause failures in transactions",请更新到至少版本{value} 以继续使用{name} ，当前版本可能会导致交易失败
+general_desc_update,Bug fixes and performance improvements,Bug修复和体验优化
+general_desc_title,What's New,更新内容
+me_share_title,Share Asilink,分享Asilink
+receive_specify_amount,Specify {value}  amount,指定{value} 金额
+create_advanced_testnet,"Testing network, for test only",测试专用网络
+status_create_wallet,Creating Wallet…,正在创建钱包…
+more_confirm_passphrase,Confirm Your Password,确认助记词密码
+transaction_none,No Transactions,暂无交易
+send_add_contact,Add Contact,添加联系人
+common_password,Password,密码
+common_date,Date,日期
+Common_next,Next,下一步
+mw_password_title,Mnemonic Words Password,助记词密码
+mw_password_skip,Skip if you haven't set a password,没有设置密码可跳过
+common_done,Done,完成
+set_transpw_title,Transaction Password,交易密码
+password_input,Input here,请输入
+tips_pw_set_success,Password set successfully,密码设置成功
+tips_pw_update_success,Password has been updated,密码修改成功
+add_contact_coins,Coin Type,币种
+add_contact_coins_select,Select,选择
+unlock_fingerprint,Tap to verify your fingerprint,点击验证指纹
+import_wallet_exist,Wallet already existed,钱包已存在
+contact_modify_name,Modify Name,修改名称
+contact_delete_alert,Are you sure you want to delete this contact?,确认要删除这个联系人吗？
+about_feedback_sent,Feedback Sent,反馈已提交
+me_currency_last_toast,Please keep at least one currency,请保留至少一种货币
+gas_higher_tips,Gas should be higher than {value},Gas值不能小于{value}
+gasp_lower_tips,"Gas Price too high, better be less than 100 gwei",Gas Price太高，建议小于100 gwei
+gasp_higher_tips,"Gas Price too low, should be higher than 1 gwei",Gas Price太低，建议大于1 gwei
+tips_transaction_send,Transaction Sent,发送成功
+tips_transaction_failed,Transaction failed to send,发送失败
+name_taken,"This name has been taken by an address, use another one",名称已经用于一个地址，换一个吧
+address_saved,Address already saved before,地址已保存
+receive_add_address,Adding Address…,添加地址…
+new_shared_wallet,Create Shared Wallet,创建共享钱包
+join_shared_wallet,Join Shared Wallet,加入共享钱包
+shared_nickname,Your Nickname,昵称
+shared_admins,Total Number of Admins,总管理员数
+shared_signs,Required Number of Signatures,所需签名数
+shared_invite_title,Share this invitation code to invite admins,分享邀请码邀请钱包管理员
+shared_invite_code,Invitation Code,邀请码
+shared_admin_list,Admin List,管理员列表
+common_waiting,Waiting…,等待加入…
+shared_cancel_invite,Cancel Invitation,取消邀请
+shared_cancel_tips,"Cancel Invitation will delete this wallet, are you sure?",取消邀请会删除这个钱包，确定要取消吗？
+shared_invite_tips,How to Use Invitation Code?,邀请码怎么使用？
+shared_invite_tips0,Tell your friend to:,让你的朋友：
+shared_invite_tips1,Use Asilink to scan the QR code,使用Asilink扫描邀请码二维码
+shared_invite_tips2,Or go to Add Wallet -> Join Shared Wallet -> enter the invitation code,或前往添加钱包->加入共享钱包->输入邀请码
+join_paste_code,Paste invitation code,粘贴邀请码
+common_join,Join,加入
+error_1304,Invalid invitation code,邀请码无效
+error_1306,"The wallet is full, can’t join it anymore.",钱包已满员，无法加入
+shared_create,CREATE PROPOSAL,创建付款提议
+common_reject,Reject,拒绝
+common_proposal,Proposal,付款提议
+transactions_creator,Creator,创建人
+transactions_time,Time Line,时间线
+timeline_accepted,Accepted,已接受
+timeline_created,Created,创建
+timeline_rejected,Rejected,已拒绝
+proposal_admin_delete,"24 hours has passed, you can now delete the proposal",距离提议创建已经24小时，你现在可以选择删除此提议
+proposal_delete,Delete Proposal,删除提议
+common_accept,Accept,接受
+proposal_broadcasted_tips,The transaction has already been broadcasted,此交易已经被广播
+timeline_broadcasted,Broadcasted,已广播
+proposal_reject_notice,Are you sure you want to reject this proposal?,你确认要拒绝此付款提议吗？
+proposal_rejecting,Rejecting,拒绝中…
+tstp_now,Just Now,刚刚
+tstp_minute,{value} minutes ago,{value}分钟前
+tstp_hour,{value} hours ago,{value}小时前
+tstp_day,{value} days ago,{value}天前
+delete_proposal_notice,"Delete proposal means cancel this transaction once and for all, are you sure?",删除提议意味着永久取消本次交易，你确认要删除吗？
+proposal_deleting,Deleting,删除中…
+proposal_signing,Signing Transaction…,签名交易中…
+proposal_creator_delete,You can delete this proposal before anyone accept it,在有其他管理员同意之前，你可随时删除提议
+proposal_lock_balance,Locked Balance:,锁定资金：
+shared_config_info,Wallet Configuration,钱包配置
+dust_tips,"Small dust input in the wallet, not all funds can be sent.",钱包中有少量Dust余额，无法发送所有资金
+send_address_save,Save Address,保存地址
+send_to_address,Send to,发送给
+common_not_select,Unselected,未选择
+common_scan,Scan,扫描
+common_select_coin,Select Coin,选择币种
+tab_prices,Prices,行情
+txn_moved,Moved,迁移
+common_fav,Favorites,收藏
+subtab_markect,Market cap,市值
+subtab_change,Change,涨跌幅
+common_bottom,It’s the bottom ~,到底咯~
+common_pull_refresh,Pull down to refresh,下拉刷新
+fav_search,Tap to search and add your favorite assets,点击搜索并添加币种到收藏列表
+common_price,Price,价格
+coin_price,Price ({Value}),价格({Value})
+data_from,Data comes from Coinmarketcap,数据来源于Coinmarketcap
+span_1d,1d,1天
+span_7d,1w,1周
+span_1month,1m,1月
+span_3m,3m,3月
+span_1y,1y,1年
+span_all,All,所有
+month_jan,Jan.,一月
+month_feb,Feb.,二月
+month_mar,Mar.,三月
+month_apr,Apr.,四月
+month_may,May.,五月
+month_jun,Jun.,六月
+month_jul,Jul.,七月
+month_aug,Aug.,八月
+month_sept,Sept.,九月
+month_oct,Oct.,十月
+month_nov,Nov.,十一月
+month_dec,Dec.,十二月
+search_hint,Enter coin name,输入币种名称
+ticker_no_result,No results for {value},搜索{value}无结果
+add_fav,Add Your Favorites,添加收藏
+common_update,Update Now,立即更新
+error_1302,"Can’t add more addresses, there are already 20 unused addresses",无法增加更多地址，当前已有20个未使用地址
+error_1401,"{value} is under maintenance now, please try again after the maintenance",{value}正在维护中，请再维护完成后再尝试
+error_1101,"Server error, please try again later",服务器错误，请稍后重试
+error_1301,Incorrect payment password,支付密码错误
+language_en,En,英
+language_zh,Zh,中
+password_check,Checking Password…,检查密码中…
+error_202,"Request too frequent, please try again later",请求过于频繁，请稍后再试
+address_not_match,The address you enter does not match selected coin type,您输入的地址与选择的币种不一致
+create_failed,"Failed to create wallet, please try again",创建钱包失败，请重试
+import_failed,"Failed to import wallet, please try again",导入钱包失败，请重试
+timestmp_today,Today,今天
+timestmp_yesterday,Yesterday,昨天
+err_403,"Failed to establish connection with server, please enter your password to reconnect",与服务端建立连接失败，请输入密码重试
+ins_miner_fee,Insufficient balance for miner fee,余额不足以支付矿工费
+confirming_lock,"Part of your balance has been locked because of transactions in confirmation, please try sending again later",确认中的交易导致部分余额被锁定，请稍后再尝试发送
+common_ok,OK,好的
+common_none,None,无
+common_edit,Edit Contact,编辑联系人
+common_copy,Copied to Clipboard,已复制
+mail_address_tips,You can also use the following email address to contact us,您可复制下方地址，直接联系我们
+confirm_mne_pw,"Please confirm your mnemonic passwords, make sure you will be able to restore this wallet later",请确认你的助记词密码，确保以后能成功恢复钱包
+new_proposal,New proposals,新提议
+proposal_sending,Sending,发送
+search_add_tips,Search for 500+ ETH tokens,搜索500+以太坊代币
+common_search,Search,搜索
+noti_center,Notifications,消息通知
+income_noti,Income Notification,入账通知
+noti_trans_failed,Transaction Failed ,转账失败
+noit_new_proposal,New Proposal,新提议
+common_notice,Notice,提示
+noti_receiced_content,Your wallet {name}  received {value} ,您的钱包{name}入账{value}
+send_failed,"The transaction to send {value} is failed, please try again",发送{value}的交易失败，请重试
+noti_proposal,{creator} created a new proposal to send {value} from shared wallet {name},{creator}创建了一个从{name}发送{value}的新提议
+proposal_deleted,The proposal has been deleted ,提议已经被删除
+noti_none,No notifications,暂无通知
+contact_us,Contact us,联系我们
+Asilink_support,Asilink Support,Asilink客服
+error_1307,"The corresponding shared wallet already exists, please import in another device",该私钥对应的共享钱包已存在，请换一台设备导入
+shared_wallet_n,Create {value} Wallet,创建{value}钱包
+common_incomplete,Incomplete,未完成
+create_by,Created by,创建人
+eth_token_gas,"Sending ETH token requires ETH as miner fee, please recharge some ETH first",发送ETH代币需要ETH作为矿工费，请充值一些矿工费之后再转账
+remove_warning,"You have {value} {coin} left, are you sure you want to hide {coin}?",您还有{value} {coin}剩余，确认要隐藏{coin}吗？
+me_service,Services,服务
+not_match,The address does not match selected coin type,地址与所选币种不匹配
+coin_no_balance,No balance available for {value}, {value}无余额可用
+wallet_deleted,The relevant wallet has been deleted by you,相关钱包已被您删除掉
+wallet_single,Single Address Wallet,单地址钱包
+common_available,Available,可用
+common_failed,Failed,失败
+more_address,More Address,更多地址
+tips_press,Press for more options,长按查看更多操作
+option_default,Set as Receive Address,设为收款地址
+option_once,Copy Address,复制地址
+addresses_balance,Addresses with balance,有余额地址
+addresses_none_balance,Addresses without balance,无余额地址
+common_normal,Normal,常规地址
+common_segwit,Segwit,隔离见证
+new_address_tips,A new address has been generated,新地址已经生成
+none_balance_tips,No address has a balance,没有地址有余额
+normal_address_tips,Turn off Segwit Address in Home -> Me to use normal address ,在首页->我的将隔离见证地址关闭，就可以使用常规地址了
+segwit_address_tip,Turn on Segwit Address in Home -> Me to use Segwit Address,在首页->我的将隔离见证地址开启，就可以使用隔离见证地址了
+segwit_address_tipplus,Segwit address saves a certain miner fee in each BTC transaction,使用隔离见证地址能为每一笔BTC交易节省一定矿工费用
+camer_access,Asilink does not have access to  your Camera Roll,Asilink没有相册权限
+seg_wit,SegWit Address,隔离见证地址
+seg_wit_tips,"After turned on, the default receiving address of current wallets and future wallets will be segwit address",开启之后，当前所有钱包以及新建钱包的默认收款地址将使用隔离见证地址
+wallet_address,Wallet Addresses,钱包地址
+more_info,More Information,更多信息
+wallet_tyoe,Wallet Type,钱包类型
+wallet_config,Wallet Configuration,钱包配置
+single_address,Single Address,单地址
+extended_pub,Extended Public Key,拓展公钥
+common_path,Path,路径
+reload_balance,Sync Address Balance ,同步地址余额
+slides1_title,Control of Your Asset,掌控您的资产
+slides1_tip,No one can access your assets without the private key(mnemonic words) ,没有私钥(助记词)，任何人都无法获取您的资产
+slides1_action,Be sure to back up mnemonic words ,一定要备份助记词啊
+slides2_title,Security is Everything ,安全高于一切
+slides2_tip,Asilink provided four kinds of extra security measures for you to protect assets,Asilink为您提供了四种额外的安全措施来保护资产
+slides2_action,Choose what you need,可按需选择
+slides2_button,I See,我知道了
+slides3_title,Your Opinion is Valuable,您的意见最重要
+slides3_tip,"We want Asilink to be a product users really need, and we value every user’s opinion",我们希望Asilink成为用户真正需要的产品，也珍视每个用户的意见
+slides3_action,Feel free to contact us,欢迎联系我们
+slides3_button,I Will,我会的
+default_set,Already set as the default receive address,已设为默认收款地址
+default_cancelled,Cancelled the default receiving address,已取消默认收款地址
+confirm_payment,Confirm Payment,确认已付款
+common_merchant,Merchant,商户名称
+order_id,Order ID ,订单编号
+payment_wallet,Payment Wallet,付款钱包
+select_wallet,Select Wallet,选择钱包
+attempts_left,{value} attempts left,还可再试{value}次
+common_skip,Skip,跳过
+pic_no_pr,There is no QR code on the picture,图片上没有二维码信息
+common_album,Album,相册
+view_all,View All,查看所有
+common_on,On,开启
+common_off,Off,关闭
+new_address,New Address,新地址
+add_address,New,新增
+generate_tips,Generate a new address?,要新增地址吗？
+generate_tips_current,Generate a new address to replace the current one?,要新增地址替换掉当前地址吗？
+bitcoin_address,Bitcoin Addresses,比特币地址
+skip_back_up_tips,"If the backup is skipped and the wallet cannot be restored elsewhere, are you sure to skip?",如果跳过备份，在其它地方无法恢复钱包，确认跳过吗？
+live_chat,Live Chat,转人工
+common_robot,Robot,转机器
+request_timeout,"Request timeout, please try again later",请求超时，请稍后重试
+error_1402,The token contract does not allow this transaction,该代币合约不允许发送该交易
+common_description,Description,商品描述
+common_broadcasting,Broadcasting…,广播中…
+security_center,Security Center,安全中心
+common_telegram,Telegram ,Telegram
+robot_service,Robot customer service,智能客服
+necessary_measure,Necessary Measures,必要操作
+back_wallets,Back Up Wallets,备份钱包
+set_lock_app,Set Lock App Pin,设置锁定应用密码
+recommend_measure,Recommended Measures,推荐操作
+rm_no1,Add a mnemonic words passphrase,添加助记词密码
+rm_no2,Use hardware wallet ,使用硬件钱包
+rm_no3,Try Multi-signature Wallet,使用多签钱包
+security_status,System Security Status,系统安全状态
+contract_verify,False contract address identification,虚假合约地址检测
+key_security,Private key security,私钥安全性
+address_verify,Transfer address verification,转账地址验证
+transfer_verify,Transfer process protection,转账过程保护
+rm_no1_desc,"Go to Add wallet > Create Wallet > Name Wallet > Back Up Wallet, click Advanced Options and set a passphrase
+With this passphrase, even if someone stolen your mnemonic words, he can not access your asset without the passphrase","进入添加钱包 > 创建钱包 > 命名钱包 > 备份钱包，点击高级选项并设置密码
+设置密码后，即使有人偷走了你的私钥，也无法获取你的资金"
+rm_no2_desc,"Asilink will support Trezor and Ledger on desktop, please visit our website www.Asilink.com and download desktop Asilink when available",Asilink桌面端将支持Trezor和Ledger两种硬件钱包，后续您可访问我们的网站 www.Asilink.com 下载Asilink桌面端
+rm_no3_desc,"Multi-sig wallet has several private keys, it spares risks
+Go to Add wallet > Create shared wallet, and ask your friends to join your wallet","多签钱包拥有多个私钥，可以分散资金风险
+进入添加钱包 > 创建钱包，然后邀请您的朋友加入钱包"
+wallet_authorize,Wallet Authorization,钱包授权
+wallet_authorize_address,{value} would like to access your wallet addresses,{value}想要获取权限读取钱包地址
+common_allow,Allow,允许
+not_set,Not Set,未设置
+search_token_tips,"For more Tokens, please search directly",更多币种请直接搜索
+connecting_hardware,"Connecting to the hardware, please wait…",正在连接硬件，请稍等...
+blueteeth_tips,Please turn on your cellphone blue-teeth in settings,请在设置中打开手机蓝牙
+use_hardware,Use Hardware Wallet,使用硬件钱包
+guide_blueteeth,Turn on Blueteeth on your phone,在手机上打开蓝牙功能
+guide_hardware,Go to  Blueteeth on your hardware,进入硬件钱包的蓝牙连接界面
+guide_scan,Scan the QR Code to connect,扫描硬件上的二维码
+scan_qr_code,Scan QR code,扫描二维码
+scan_tips,Scan the QR code on your hardware wallet,请扫描硬件钱包上的二维码
+connect_tips,Please turn on your cellphone blue-teeth and hardware wallet,请启动手机蓝牙以及硬件钱包
+searching_buleteeth,Searching for blue-teeth…,搜索蓝牙中…
+common_connected,Connected,连接成功 
+confirm_tips,Please confirm the transaction on your hardware wallet,请在硬件钱包上点击确认交易
+rejected_tips,"The hardware rejected the transaction, please try again",硬件拒绝签名交易，请重试
+try_again,Try again,重试
+transaction_sent,"Transaction sent, waiting for confirmations",交易已成功发送，等待确认
+contact_eth_tips,The address of the Ethereum applies to all Ethereum tokens ,以太币的地址适用于所有以太坊代币 
+keyboard_return,Return,收起
+keyboard_space,Space,空格
+common_rank,Rank,排名
+connection_failed,"Failed to connect, please try again",连接失败，请重试
+hd_wallet,Asilink HD Wallet ,Asilink HD 钱包 
+hd_wallet_title,You have the absolute control of your assets,您可以完全掌控自己的资产
+password_set,"To ensure the security of your funds, please set a password to protect your account and assets",为保证您的资金安全，请设置密码用于保护您的账号和资产
+use_mn,Use mnemonic words,使用助记词
+use_pk,Use private key,使用私钥
+password_set_short,"To ensure the security of your funds, please set a password",为保证您的资金安全，请设置密码
+mn_enter_tips,"Please enter your wallet mnemonic, mnemonic words need to be separated by a single space",请输入你的钱包助记词，助记词需要以单个空格隔开
+privte_key_enter,Please enter or paste your private key,请输入或粘贴你的私钥
+hide_asset,Hide asset,隐藏币种
+hide_tips,Are you sure you want to hide {value}?,确认要隐藏币种{value}吗？
+save_qr,Save the QR code,保存二维码
+common_from,From,发送自
+common_to,To,给：
+enter_receive_address,Enter the receiving address,输入对方收款地址
+common_data,Data,数据
+enter_data,Enter data(Hexadecimal data),输入数据(十六进制数据)
+common_free,Free,免费
+confirm_send,Confirm and Send,确认并发送
+confirm_txn,Confirm Transaction,确认交易
+confirm_txn_desc,Please check and confirm the following transaction,请检查并确认以下交易
+common_contract,Contract,合约
+confirm_auth,Confirm Authorization,确认授权
+confirm_auth_desc,"{value} wants to read your wallet address, please confirm whether to authorize it? ",{value} 想要读取您的钱包地址，是否授权给对方？
+receive_wallet,Receiving wallet,收款钱包
+receiving_address,Receiving address,收款地址
+wallet_name,Wallet Name,钱包名称
+mn_words,Mnemonic words,助记词
+show_mn,Show mnemonic words,展示助记词
+verify_view,Verify your password before viewing the mnemonic,查看助记词之前，请先验证您的密码
+verify_password,Verify Password,验证密码
+wallet_mn,Wallet mnemonic words,钱包助记词
+common_close,Close,关闭
+verify_delete,Please enter your wallet password before deleting your wallet,删除钱包前，请输入您的钱包密码
+common_logout,Logout,登出
+wallet_lists,Wallets,钱包
+general_settings,Settings,设置
+welcome_back,Welcome Back!,欢迎回来！
+login_passwords,Please enter your password to log into current account,请验证密码登录当前账号
+mn_login,Use mnemonic words to log in,使用助记词登录
+log_in,Log in,登录
+edit_name,Edit Name,编辑名称
+edit_name_waller,Edit Wallet Name,编辑钱包名称
+txn_id,Transaction ID,交易ID
+format_error,The format of private key is not correct.It should be like this:0x.....,私钥格式错误，正确的格式应为：0x……
+copy_success,Copy successfully,复制成功
+copy_failed,Copy failed,复制失败
+contract_ads,Contract Address,合约地址
+contract_called,Contract call successful,合约调用成功
+txn_created,Transaction created successful,交易构建成功
+txn_sent,Transaction sent successful,交易发送成功
+txn_failed,Transaction failed to send,交易发送失败
+incorrect_txn,"Incorrect transaction type, please select again",交易类型错误，请重新选择
+name_error,"The name can’t contain space, please re-enter",名称包含空格，请重新输入
+wallet_no_key,"This wallet is imported using mnemonics, it has no private key",该钱包是从私钥导入，没有助记词！
+rpc_exist,this rpc address is already exist,此rpc地址已存在
+deploy_contract,Deploy contract,部署合约
+confirm_tips,Select asset and enter amount then confirm this transaction,选择币种并输入金额后确认此交易
+private_key,Private key,私钥
+add_ket,Add private key,添加私钥
+common_add,Add,添加
+add_tips,Enter private and click add,输入私钥后点击添加
+common_added,Added,已添加的
+no_key_added,No private key has been added,还未添加任何私钥
+add_network,Add network ,添加网络
+call_contract,Call contract,调用合约
+create_contract,Create contract,创建合约
+txn_type,Transaction type,交易类型

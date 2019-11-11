@@ -1,0 +1,116 @@
+Key,English,Chinese
+slogan_simple,Simple,简单
+slogan_secure,Secure,安全
+slogan_powerful,Powerful,强大
+slogan_main,Fingo - a safe Bitcoin & Ethereum Wallet,Fingo -  安全的比特币&以太坊钱包
+feature1_title,Ultra Secure,极致安全
+feature1_desc,All keys are created on your local device and never sent to any servers. Save your asset to multiple wallets to protect your privacy while also disperse risks,所有密钥都是在本地设备上创建的，不会发送到任何服务器；多钱包存储，保护您的隐私也将风险降到最低
+feature2_title,500+ Cryptocurrencies,500+币种
+feature2_desc,"Support all main stream cryptocurrencies, including Bitcoins, Ethereum, and 500+ Ethereum tokens( BNB, OMG, etc.). ","支持所有主流的加密货币，包括比特币，以太坊，和500+以太坊代币(BNB,OMG等)"
+feature3_title,Multiple Wallets,多个钱包
+feature3_desc,"Download one application, create as many wallets as you need, separate funds according to different purposes, secure your funds by dispersing risk.",下载 Fingo，你需要几个钱包，即可创建几个钱包，根据用途分门别类管理资金，分散风险保障资金安全
+feature4_title,Realtime Ticker,实时行情
+feature4_desc,"Keep track of the market price changes, realtime price from trusted exchange platform, never miss a chance to win more",追踪市场价格变动，从权威的交易平台获取实时数据，决不错过任何一个赚钱的机会
+feature5_title,Easy to Use,极简操作
+feature5_desc,"Optimized operations without compromising security.
+Simple design, user-friendly interface, easy backup process with only two steps, even 8 years old knows how to use it.",在不损失安全的前提下，优化操作步骤。备份钱仅需两步。简单的操作，友好的交互界面。让8岁的孩子都可以轻松操作。
+feature6_title,Multi-signature(Shared) Wallet,多重签名(共享)钱包
+feature6_desc,"Secure your cryptos with more private keys, manage a shared(Multi-signature) wallet along with others (either your families or coworkers)",使用多个私钥保护您的加密数字货币资产，与其他人（您的家人或同事）一起管理共享(多签)钱包
+more_download,Download fingo wallet to learn more,下载Fingo钱包，了解更多特性
+about_us,About Us,关于我们
+about_us_desc,"Fingo team is made up with experienced blockchain developers, our main goal is to provide users with the best wallet to protect and manage their crypto-currencies, make it easy for users to access and transfer their coins and tokens",Fingo 团队由区块链开发经验丰富的开发者组成，团队致力于为用户提供简单好用又安全的加密数字货币钱包，方便用户管理资产，进行转账等操作
+contactus,Contact Us,联系我们
+faq,FAQ,常见问题
+terms,Terms of Service,服务条款
+privacy,Privacy Policy,隐私政策
+question1,1. What is Fingo?,1. Fingo是什么？
+answer1,"Fingo is a hierarchical deterministic wallet that supports multi-currencies and multi-wallets, giving users full control over their private keys",Fingo 是一个支持多币种多钱包的分层确定性钱包，用户可以完全掌控自己的私钥
+question2,2. What is a wallet?,2. 钱包是什么？
+answer2,"Your crypto-currency wallet usually contains your private key which is used to create coin's address and also to sign outgoing transactions, with a wallet, you can check your balance, receive and send crypto assets",加密货币钱包通常包含钱包私钥，私钥可以用于创建地址以及签名交易，通过钱包，您可以查询余额，收款和转账
+question3,3. How to create a wallet?,3. 怎么创建钱包？
+answer3,"Launch the app, click Create Wallet, back up your mnemonic words, and that’s all",启动应用，点击创建钱包，备份您的助记词，即可完成钱包创建
+question4,4. Do I need to create a wallet for each coin?,4. 需要给每一个币都创建一个钱包吗？
+answer4,"No, every wallet you created contains all the crypto-currencies supported by Fingo",不需要，您创建的每一个钱包，都包含了Fingo支持的所有币种
+question5,5. What is a mnemonic?,5. 什么是助记词？
+answer5,"Mnemonic words is also known as seed phrase, which is a list of words which store all the information needed to recover a wallet, using the mnemonic words, you can restore your wallet and use the funds even if you uninstall the app",助记词也叫种子密码，通常是一组随机生成的单词，包含了恢复钱包需要的所有信息，只要有助记词，即使卸载了应用，也能恢复钱包和使用其内资金
+question6,6. What does it mean by import wallet?,6. 导入钱包是指什么？
+answer6,"by import wallet, you can use your mnemonic words to restore your existing wallet, and Fingo supports all wallets created according to bip 44(including wallets created by other application)",通过导入钱包功能，您可以使用助记词将已有的钱包进行恢复，Fingo支持所有遵循bip 44规则创建的钱包(包括在其它应用创建的)
+question7,7. How do I use Fingo wallet?,7. 怎么使用钱包？
+answer7,"you can use Fingo to send and receive supported coins and tokens, and check your current balance. To send, just enter the amount and paste the receiving address; To Receive, show your address QR code or copy your wallet address and send it to the other person.",您可以使用Fingo发送和接收支持的币种，查看当前账户余额。输入金额和对方地址即可发送；如果想收款，发送您的收款二维码或收款地址给对方即可
+question8,8. How do I keep my asset secure?,8. 怎么保护好自己的资产？
+answer8,"Always keep a backup of your mnemonic words in a safe place! Be sure not to lose them. If you do, there is absolutely no way to restore your assets.",在安全的地方备份一份助记词！ 千万不要丢失助记词， 如果丢失，没有任何办法能恢复您的资产
+question9,9. My transaction has been unconfirmed for a long time.  What can I do?,9. 交易一直没有被确认，我该怎么做？
+answer9,"Due to the low miner fee or the congestion of the p2p network, your transaction may not be confirmed for some time. Some coins such as Bitcoin may accept additional miner fee. For those that does not support, please be patient and wait for the transaction to be confirm",由于矿工费用设置过低或网络出现拥堵，您的交易可能一时无法被确认，部分币种如比特币，可能支持追加矿工费，其它不支持追加的币种，您需要耐心等待网络恢复正常
+question10,10. What is miner fee?,10. 矿工费是什么？
+answer10,"After your transaction is broadcasted, it needs to be verified and confirmed recorded on the corresponding blockchain by miners. The miners maintain the nodes and confirm that the transaction consumes various resources. Therefore, miners charge the transaction sender a certain fee, which is called the miner fee. Fingo will never charge users for wallet services",您的交易发出之后，需要由矿工进行验证和确认，并且记入相应区块链上，矿工维持节点和确认交易会消耗各类资源，因此矿工会向交易发送方收取一定的费用，这就是所谓的矿工费，Fingo本身是不会收取任何费用的
+question11,11. I sent coins to the wrong address. How can I get it back?,11. 发送到错误的地址，钱能找回吗？
+answer11,"Normally, payments on blockchain can not be reversed. If you send to the wrong address by mistake it cannot be recovered.",当前区块链上的交易通常情况下都无法被撤销，如果您发送到了一个错误的地址，资金是无法找回的
+question12,12. Why ETH are used as miner fee when sending some tokens?,12. 为什么发送有些币，需要ETH做矿工费？
+answer12,"To send a Token which is developed based on Ethereum, ETH are required as miner fee",基于以太坊的代币，在交易时，必须使用ETH作矿工费
+question13,13. Does fingo store users private key on their servers?,13. Fingo 会把用户的私钥存在服务器吗？
+answer13,"No, all private keys are generated and stored locally, Fingo will never transfer user's private key to any server.",不会，所有私钥都是在本地生成和存储的，Fingo永远不会将用户的私钥传输到任何服务器。
+question14,14. What is a Bitcoin address?,14. 地址是做什么用的？
+answer14,"An address is similar to your traditional bank account numbers. It looks something like this: 
+1DBLGRPn5kG4Fg3g32XWfXDPGRFqzigqKx","地址类似于您的传统银行帐号。 通常地址长这样：
+1DBLGRPn5kG4Fg3g32XWfXDPGRFqzigqKx"
+question15,15. Why do Bitcoin have many addresses?,15. 为什么比特币有很多地址？
+answer15,"Bitcoin uses the UTXO model, you can have an unlimited amount of addresses. You can reuse any Bitcoin address multiple times, or use a new address each time",比特币采用的是UTXO模型，你可以有无限多的地址，您可以一直使用一个地址，也可以每次都使用新的地址
+question16,16. I made a deposit to Fingo. How long does it take to arrive?,16. 充值到Fingo，多久能到账？
+answer16,"The arrival speed depends on the transaction confirmation speed. As long as the transaction is confirmed, you will be able to see your assets in Fingo. Each coin has a corresponding website to check the transaction status. If you have any questions, you can check the transaction status by address at corresponding website",到账速度取决于交易被确认的速度，只要交易被确认，您就可以在Fingo看到您的资产，每个币种都有相应的网站可以查询交易状态，如您有疑问，您可以在相关网站通过地址查询
+question17,17. I have forgotten my payment password. What can I do?,17. 我忘记支付密码了，该怎么办？
+answer17,"Your payment password is stored locally to encrypt your private key, we are unable to help you to recover your password. But as long as you have backed up the wallet mnemonic words, you can import this wallet, and then you can set a new password",您的密码只会存在于本地，用于加密您的私钥信息，因为我们无法帮助您找回密码，但是只要您备份了钱包助记词，您可以重新导入钱包，导入后您就可以设置新的密码了
+question18,18. Can I import wallet created by other application to Fingo?,18. 在其它钱包创建的钱包，能导到Fingo用吗？
+answer18,"For any wallet created according to Bip 44, you can import it to Fingo using the Mnemonic words",只要是遵循 Bip 44规则创建的钱包，都可以通过助记词导入到Fingo中使用
+question19,19. What if I accidentally uninstalled Fingo?,19. 应用不小心卸载了怎么办？
+answer19,"Back up your mnemonic words everytime you create a wallet, with the wallet mnemonic words, you can always restore your wallet and assets",每次创建钱包时，请一定要完成备份并记录好助记词，通过助记词，您可以随时恢复钱包和资产
+question20,20. What can I do if I lost my cell phone?,20. 手机丢了怎么办？
+answer20,"Back up your mnemonic words everytime you create a wallet, with the wallet mnemonic words, you can always restore your wallet and assets",每次创建钱包时，请一定要完成备份并记录好助记词，通过助记词，您可以随时恢复钱包和资产
+question21,21. What if the transaction failed?,21. 交易失败怎么办？
+answer21,"In very rare cases, the transaction will not be confirmed, even if your transaction fails, the funds will be returned immediately, you only need to resend the transaction",在极少数情况下，交易不会被打包确认，即使您的交易失败，资金也会被即时退回，您只需要重新发送交易
+common_features,Features,产品特点
+common_telegram,Telegram,Telegram
+why_fingo,Why Fingo?,为什么选择fingo
+intro_safe,Provided with superlative security features ,将安全做到极致
+intro_simple,Minimalist operations that can get started quickly,快速上手的极简操作
+intro_suggestion,Continuous iterations based on user feedback,依据用户反馈的极速迭代
+constant_interations,Constant Iterations,极速迭代
+interations_desc,We improve our products with an open and inclusive mindset by utilizing users’ pertinent suggestions. We will respond to product feedback as quick as possible.,团队开放包容的心态，用户的中肯的建议都是我们产品改进的方向。我们将以最快的速度进行产品调整。
+slogan_home,Your One-stop Asset Management Platform,您的一站式资产管理平台
+hd_wallet,HD Wallet,HD钱包
+mortga_loan,Crypto-backed Loan,抵押借贷
+finance_invest,Finance and Investment,投资理财
+creat_backup,"Enables Electronic transfer of funds and money
+",允许资金和金钱的电子转移
+tokens_support,"Support BTC, ETH, USDT and other 500+ tokens",支持BTC，ETH，USDT等500+币种
+sharing_support,Support BTC sharing (multi-sig) wallet,支持BTC共享(多签)钱包
+segwit_support,Support BTC segregated witness address,支持BTC隔离见证地址
+wallets_independ,Create multiple independent HD wallets on one device,支持一个设备上创建多个独立HD钱包
+security_measures,"With multiple security measures, your assets are absolutely guaranteed",多重安全手段，您的资产绝对有保障
+learn_more,Learn More,了解更多
+common_secure,Secure,安全
+secure_desc,"Cold and hot separation storage + multi-signature, assets are guaranteed",冷热分离存储+多重签名，资产有保障
+common_objective,High yield,高收益
+objective_desc,"Stable earnings are guaranteed, low risks",收益稳定有保障，低风险
+common_professional,Professional,专业
+professional_desc,"Strict risk control process, professional financial asset management team",严格的风控流程，专业的资产管理团队
+common_transparent,Transparent,透明
+transparent_desc,The loan & investment process is clear and information is fully disclosed,借贷投资流程清晰，信息全披露 
+invest_diversify,Multi-currency & diversified wealth management services,多币种多样化理财服务
+invest_easy,"Easy investment operation, timely receipt of income",投资操作简易，收益及时到账
+invest_quick,"Quick review of cash withdrawals, timely arrival of your asset",提现快速审核，及时到账
+invest_services,"Intelligent customer service + manual customer service, always standing by",智能客服+人工客服，随时待命
+prices_real_time,"The price is updated in real time, never letting you miss any chance",价格实时更新，决不让你错过任何机会
+prices_currencies,"comprehensive currencies, view mainstream currency price changes in a glance",币种全面，主流币种价格变化一览无余
+prices_charts,Historical charts are concise with clear trends,历史行情图表简明，趋势清晰
+common_medium,Medium,Medium
+common_youtube,YouTube,YouTube
+wechat_account,WeChat Official Account,微信公众号
+faq_all,Frequent Asked Questions,常见问题
+common_company,Company,公司
+common_about,About,关于
+common_download,Download,下载
+common_home,Home,首页
+follow_us,Follow us,关注我们
+video_list,Video List,视频列表
+ios_guide,App Store Download Guidance,国外App Store下载攻略
+ios_go,Go to App Store to Download,去App Store下载
